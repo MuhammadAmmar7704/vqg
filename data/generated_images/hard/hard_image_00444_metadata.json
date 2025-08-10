@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 444,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "oval",
-      "color": "orange",
-      "size_category": "large",
-      "position": [
-        437,
-        261
-      ],
-      "size_pixels": 198
-    },
-    {
       "type": "circle",
-      "color": "light_blue",
-      "size_category": "large",
+      "color": "purple",
+      "size_category": "small",
       "position": [
-        118,
-        328
+        519,
+        196
       ],
-      "size_pixels": 196
+      "size_pixels": 54
     },
     {
       "type": "square",
-      "color": "orange",
-      "size_category": "small",
-      "position": [
-        286,
-        81
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "diamond",
-      "color": "soft_purple",
+      "color": "mint",
       "size_category": "medium",
       "position": [
-        266,
-        222
+        230,
+        212
       ],
-      "size_pixels": 96
+      "size_pixels": 128
     },
     {
-      "type": "circle",
-      "color": "soft_purple",
+      "type": "hexagon",
+      "color": "beige",
       "size_category": "small",
       "position": [
-        56,
-        76
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "pentagon",
-      "color": "light_pink",
-      "size_category": "small",
-      "position": [
-        67,
-        153
+        416,
+        536
       ],
       "size_pixels": 58
     },
     {
-      "type": "circle",
-      "color": "pale_mint",
+      "type": "heart",
+      "color": "pink",
       "size_category": "small",
       "position": [
-        177,
-        150
+        344,
+        102
       ],
-      "size_pixels": 36
+      "size_pixels": 60
+    },
+    {
+      "type": "pentagon",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        109,
+        111
+      ],
+      "size_pixels": 42
+    },
+    {
+      "type": "star",
+      "color": "soft_purple",
+      "size_category": "large",
+      "position": [
+        372,
+        372
+      ],
+      "size_pixels": 240
     }
   ]
 }

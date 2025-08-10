@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 800,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "rectangle",
-      "color": "pale_blue",
-      "size_category": "large",
-      "position": [
-        284,
-        134
-      ],
-      "size_pixels": 224
-    },
-    {
-      "type": "diamond",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        506,
-        511
-      ],
-      "size_pixels": 90
-    },
-    {
-      "type": "square",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        505,
-        112
-      ],
-      "size_pixels": 140
-    },
-    {
-      "type": "oval",
+      "type": "hexagon",
       "color": "light_purple",
       "size_category": "medium",
       "position": [
-        145,
-        417
+        204,
+        96
       ],
-      "size_pixels": 122
+      "size_pixels": 96
     },
     {
-      "type": "diamond",
-      "color": "light_blue",
+      "type": "circle",
+      "color": "pale_blue",
       "size_category": "small",
       "position": [
-        459,
-        406
+        55,
+        421
       ],
-      "size_pixels": 36
+      "size_pixels": 38
     },
     {
-      "type": "star",
+      "type": "diamond",
       "color": "light_purple",
+      "size_category": "large",
+      "position": [
+        261,
+        344
+      ],
+      "size_pixels": 248
+    },
+    {
+      "type": "heart",
+      "color": "pale_blue",
       "size_category": "medium",
       "position": [
-        351,
-        365
+        510,
+        152
       ],
-      "size_pixels": 94
+      "size_pixels": 120
+    },
+    {
+      "type": "circle",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        499,
+        415
+      ],
+      "size_pixels": 60
     },
     {
       "type": "hexagon",
-      "color": "light_mint",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        323,
-        467
+        107,
+        211
       ],
-      "size_pixels": 56
+      "size_pixels": 52
     }
   ]
 }

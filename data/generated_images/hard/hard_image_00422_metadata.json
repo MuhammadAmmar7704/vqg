@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 422,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "rectangle",
-      "color": "purple",
+      "type": "diamond",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        299,
-        158
+        541,
+        349
       ],
       "size_pixels": 44
     },
     {
-      "type": "star",
-      "color": "light_mint",
-      "size_category": "medium",
+      "type": "diamond",
+      "color": "light_blue",
+      "size_category": "small",
       "position": [
-        432,
-        476
+        437,
+        108
       ],
-      "size_pixels": 128
+      "size_pixels": 48
+    },
+    {
+      "type": "heart",
+      "color": "mint",
+      "size_category": "large",
+      "position": [
+        337,
+        232
+      ],
+      "size_pixels": 214
     },
     {
       "type": "oval",
-      "color": "mint",
+      "color": "pink",
       "size_category": "small",
       "position": [
-        416,
-        144
-      ],
-      "size_pixels": 34
-    },
-    {
-      "type": "square",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        119,
-        475
-      ],
-      "size_pixels": 50
-    },
-    {
-      "type": "triangle",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        254,
-        250
-      ],
-      "size_pixels": 50
-    },
-    {
-      "type": "diamond",
-      "color": "pale_blue",
-      "size_category": "small",
-      "position": [
-        224,
-        428
+        57,
+        147
       ],
       "size_pixels": 38
     },
     {
-      "type": "hexagon",
-      "color": "light_purple",
+      "type": "heart",
+      "color": "soft_purple",
       "size_category": "small",
       "position": [
-        490,
-        185
+        188,
+        425
       ],
-      "size_pixels": 52
+      "size_pixels": 54
+    },
+    {
+      "type": "circle",
+      "color": "pink",
+      "size_category": "medium",
+      "position": [
+        403,
+        496
+      ],
+      "size_pixels": 120
     }
   ]
 }

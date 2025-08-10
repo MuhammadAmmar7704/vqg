@@ -4,24 +4,24 @@
   "total_shapes": 2,
   "shapes": [
     {
-      "type": "rectangle",
-      "color": "pale_mint",
+      "type": "circle",
+      "color": "pink",
       "size_category": "medium",
       "position": [
-        296,
-        80
+        185,
+        317
       ],
-      "size_pixels": 76
+      "size_pixels": 96
     },
     {
-      "type": "square",
-      "color": "light_green",
+      "type": "rectangle",
+      "color": "light_pink",
       "size_category": "medium",
       "position": [
-        217,
-        297
+        229,
+        192
       ],
-      "size_pixels": 64
+      "size_pixels": 80
     }
   ]
 }

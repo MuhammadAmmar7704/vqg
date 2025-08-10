@@ -5,33 +5,33 @@
   "shapes": [
     {
       "type": "rectangle",
-      "color": "pale_mint",
+      "color": "light_blue",
       "size_category": "medium",
       "position": [
-        162,
-        269
+        151,
+        219
       ],
-      "size_pixels": 74
+      "size_pixels": 92
     },
     {
-      "type": "triangle",
-      "color": "mint",
+      "type": "square",
+      "color": "purple",
       "size_category": "medium",
       "position": [
-        315,
-        69
+        299,
+        124
       ],
       "size_pixels": 88
     },
     {
       "type": "circle",
-      "color": "beige",
+      "color": "soft_purple",
       "size_category": "medium",
       "position": [
-        119,
-        90
+        63,
+        161
       ],
-      "size_pixels": 92
+      "size_pixels": 78
     }
   ]
 }

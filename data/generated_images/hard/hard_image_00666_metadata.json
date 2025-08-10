@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 666,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "circle",
-      "color": "soft_blue",
-      "size_category": "large",
-      "position": [
-        347,
-        169
-      ],
-      "size_pixels": 198
-    },
-    {
-      "type": "star",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        366,
-        420
-      ],
-      "size_pixels": 138
-    },
-    {
-      "type": "triangle",
+      "type": "rectangle",
       "color": "light_pink",
       "size_category": "small",
       "position": [
-        182,
-        219
+        62,
+        529
+      ],
+      "size_pixels": 58
+    },
+    {
+      "type": "heart",
+      "color": "lavender",
+      "size_category": "large",
+      "position": [
+        371,
+        224
+      ],
+      "size_pixels": 230
+    },
+    {
+      "type": "diamond",
+      "color": "soft_blue",
+      "size_category": "small",
+      "position": [
+        322,
+        540
+      ],
+      "size_pixels": 58
+    },
+    {
+      "type": "diamond",
+      "color": "soft_blue",
+      "size_category": "medium",
+      "position": [
+        331,
+        414
+      ],
+      "size_pixels": 116
+    },
+    {
+      "type": "circle",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        404,
+        60
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "square",
+      "color": "pale_blue",
+      "size_category": "small",
+      "position": [
+        66,
+        209
       ],
       "size_pixels": 36
     },
     {
       "type": "triangle",
-      "color": "light_pink",
+      "color": "light_blue",
       "size_category": "small",
       "position": [
-        132,
-        488
+        536,
+        177
       ],
-      "size_pixels": 44
-    },
-    {
-      "type": "triangle",
-      "color": "light_green",
-      "size_category": "small",
-      "position": [
-        491,
-        434
-      ],
-      "size_pixels": 44
+      "size_pixels": 34
     }
   ]
 }

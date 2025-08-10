@@ -1,0 +1,37 @@
+{
+  "difficulty": "easy",
+  "image_index": 14420,
+  "total_shapes": 3,
+  "shapes": [
+    {
+      "type": "rectangle",
+      "color": "pale_mint",
+      "size_category": "medium",
+      "position": [
+        64,
+        198
+      ],
+      "size_pixels": 72
+    },
+    {
+      "type": "square",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        156,
+        314
+      ],
+      "size_pixels": 92
+    },
+    {
+      "type": "rectangle",
+      "color": "teal",
+      "size_category": "medium",
+      "position": [
+        252,
+        286
+      ],
+      "size_pixels": 64
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 import os
+from pathlib import Path
 
-# Base paths
-BASE_PATH = r"C:\Users\800 G2\Desktop\vqg_shapes_project\data"
-INDIVIDUAL_SHAPES_PATH = os.path.join(BASE_PATH, "individual_shapes")
-GENERATED_IMAGES_PATH = os.path.join(BASE_PATH, "generated_images")
+# Base paths - relative to the project root
+PROJECT_ROOT = Path(__file__).parent.parent  # Go up from src/ to project root
+BASE_PATH = PROJECT_ROOT / "data"
+INDIVIDUAL_SHAPES_PATH = BASE_PATH / "individual_shapes"
+GENERATED_IMAGES_PATH = BASE_PATH / "generated_images"
 
 # Shape categories
 SHAPE_CATEGORIES = [
@@ -42,8 +44,8 @@ EASY_CONFIG = {
     'available_colors': ASD_COLORS[:6],  # First 6 colors only
     'size_variations': ['medium'],       # Only medium size
     'allow_overlap': False,              # No overlapping for easy
-    'num_images': 1000,
-    'output_folder': os.path.join(GENERATED_IMAGES_PATH, 'easy')
+    'num_images': 20000,
+    'output_folder': GENERATED_IMAGES_PATH / 'easy'
 }
 
 MEDIUM_CONFIG = {
@@ -54,8 +56,8 @@ MEDIUM_CONFIG = {
     'available_colors': ASD_COLORS[:12], # First 12 colors
     'size_variations': ['small', 'large'],  # Size variations introduced
     'allow_overlap': False,              # Still no overlap
-    'num_images': 1000,
-    'output_folder': os.path.join(GENERATED_IMAGES_PATH, 'medium')
+    'num_images': 20000,
+    'output_folder': GENERATED_IMAGES_PATH / 'medium'
 }
 
 HARD_CONFIG = {
@@ -66,8 +68,8 @@ HARD_CONFIG = {
     'available_colors': ASD_COLORS,      # All colors available
     'size_variations': ['small', 'medium', 'large'],  # All size variations
     'allow_overlap': True,               # Overlapping allowed for complexity
-    'num_images': 1000,
-    'output_folder': os.path.join(GENERATED_IMAGES_PATH, 'hard')
+    'num_images': 20000,
+    'output_folder': GENERATED_IMAGES_PATH / 'hard'
 }
 
 # Size factors for different variations

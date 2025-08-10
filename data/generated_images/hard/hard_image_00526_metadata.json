@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 526,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "square",
-      "color": "beige",
-      "size_category": "large",
+      "type": "hexagon",
+      "color": "light_green",
+      "size_category": "medium",
       "position": [
-        423,
-        356
+        212,
+        494
       ],
-      "size_pixels": 224
+      "size_pixels": 136
+    },
+    {
+      "type": "diamond",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        44,
+        538
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "oval",
+      "color": "light_pink",
+      "size_category": "small",
+      "position": [
+        541,
+        346
+      ],
+      "size_pixels": 36
     },
     {
       "type": "rectangle",
-      "color": "yellow",
-      "size_category": "medium",
-      "position": [
-        85,
-        106
-      ],
-      "size_pixels": 104
-    },
-    {
-      "type": "heart",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        206,
-        127
-      ],
-      "size_pixels": 58
-    },
-    {
-      "type": "hexagon",
-      "color": "pale_blue",
-      "size_category": "small",
-      "position": [
-        97,
-        309
-      ],
-      "size_pixels": 40
-    },
-    {
-      "type": "star",
-      "color": "beige",
-      "size_category": "large",
-      "position": [
-        355,
-        132
-      ],
-      "size_pixels": 196
-    },
-    {
-      "type": "pentagon",
       "color": "lavender",
       "size_category": "medium",
       "position": [
-        236,
-        382
+        433,
+        395
       ],
-      "size_pixels": 110
+      "size_pixels": 136
     },
     {
-      "type": "pentagon",
-      "color": "light_green",
+      "type": "star",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        477,
-        64
+        233,
+        66
       ],
-      "size_pixels": 32
+      "size_pixels": 60
+    },
+    {
+      "type": "star",
+      "color": "light_pink",
+      "size_category": "small",
+      "position": [
+        272,
+        246
+      ],
+      "size_pixels": 62
     }
   ]
 }

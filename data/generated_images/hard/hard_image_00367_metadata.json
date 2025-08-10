@@ -4,32 +4,32 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "square",
-      "color": "soft_purple",
+      "type": "heart",
+      "color": "light_mint",
       "size_category": "large",
       "position": [
-        147,
-        418
+        196,
+        290
       ],
-      "size_pixels": 204
-    },
-    {
-      "type": "rectangle",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        393,
-        194
-      ],
-      "size_pixels": 146
+      "size_pixels": 266
     },
     {
       "type": "triangle",
-      "color": "light_purple",
+      "color": "orange",
       "size_category": "small",
       "position": [
-        182,
-        272
+        475,
+        320
+      ],
+      "size_pixels": 52
+    },
+    {
+      "type": "diamond",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        360,
+        465
       ],
       "size_pixels": 42
     },
@@ -38,40 +38,40 @@
       "color": "light_green",
       "size_category": "small",
       "position": [
-        516,
-        403
+        180,
+        91
       ],
-      "size_pixels": 38
-    },
-    {
-      "type": "circle",
-      "color": "soft_blue",
-      "size_category": "medium",
-      "position": [
-        127,
-        132
-      ],
-      "size_pixels": 114
+      "size_pixels": 36
     },
     {
       "type": "star",
-      "color": "lavender",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        401,
-        467
+        386,
+        272
       ],
-      "size_pixels": 52
+      "size_pixels": 42
     },
     {
-      "type": "diamond",
-      "color": "teal",
+      "type": "triangle",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        473,
-        512
+        503,
+        188
       ],
-      "size_pixels": 44
+      "size_pixels": 34
+    },
+    {
+      "type": "pentagon",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        451,
+        379
+      ],
+      "size_pixels": 34
     }
   ]
 }

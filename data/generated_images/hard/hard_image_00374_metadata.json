@@ -1,67 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 374,
-  "total_shapes": 6,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "pentagon",
-      "color": "pale_blue",
-      "size_category": "large",
-      "position": [
-        366,
-        241
-      ],
-      "size_pixels": 232
-    },
-    {
-      "type": "hexagon",
-      "color": "orange",
-      "size_category": "small",
-      "position": [
-        401,
-        483
-      ],
-      "size_pixels": 56
-    },
-    {
       "type": "star",
-      "color": "beige",
-      "size_category": "small",
-      "position": [
-        539,
-        140
-      ],
-      "size_pixels": 58
-    },
-    {
-      "type": "square",
-      "color": "light_blue",
-      "size_category": "small",
-      "position": [
-        271,
-        394
-      ],
-      "size_pixels": 34
-    },
-    {
-      "type": "heart",
       "color": "pale_mint",
-      "size_category": "small",
+      "size_category": "medium",
       "position": [
-        183,
-        266
+        156,
+        519
       ],
-      "size_pixels": 52
+      "size_pixels": 108
     },
     {
       "type": "oval",
-      "color": "light_mint",
+      "color": "lavender",
+      "size_category": "medium",
+      "position": [
+        256,
+        236
+      ],
+      "size_pixels": 130
+    },
+    {
+      "type": "pentagon",
+      "color": "teal",
+      "size_category": "large",
+      "position": [
+        457,
+        247
+      ],
+      "size_pixels": 194
+    },
+    {
+      "type": "oval",
+      "color": "beige",
       "size_category": "small",
       "position": [
-        127,
-        539
+        225,
+        82
       ],
-      "size_pixels": 52
+      "size_pixels": 46
+    },
+    {
+      "type": "triangle",
+      "color": "pale_blue",
+      "size_category": "small",
+      "position": [
+        178,
+        425
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "star",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        550,
+        78
+      ],
+      "size_pixels": 42
+    },
+    {
+      "type": "oval",
+      "color": "purple",
+      "size_category": "small",
+      "position": [
+        314,
+        96
+      ],
+      "size_pixels": 58
     }
   ]
 }

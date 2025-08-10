@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 857,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "heart",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        167,
-        463
-      ],
-      "size_pixels": 102
-    },
-    {
-      "type": "diamond",
-      "color": "lavender",
+      "type": "triangle",
+      "color": "orange",
       "size_category": "small",
       "position": [
-        416,
-        242
+        385,
+        136
       ],
-      "size_pixels": 58
+      "size_pixels": 56
     },
     {
-      "type": "square",
-      "color": "yellow",
+      "type": "rectangle",
+      "color": "pink",
       "size_category": "medium",
       "position": [
-        514,
-        391
+        133,
+        446
       ],
-      "size_pixels": 100
-    },
-    {
-      "type": "diamond",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        482,
-        103
-      ],
-      "size_pixels": 46
+      "size_pixels": 148
     },
     {
       "type": "hexagon",
-      "color": "yellow",
+      "color": "light_pink",
       "size_category": "medium",
       "position": [
-        100,
+        388,
+        467
+      ],
+      "size_pixels": 142
+    },
+    {
+      "type": "pentagon",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        543,
+        432
+      ],
+      "size_pixels": 60
+    },
+    {
+      "type": "rectangle",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        276,
         234
       ],
-      "size_pixels": 140
+      "size_pixels": 42
+    },
+    {
+      "type": "heart",
+      "color": "mint",
+      "size_category": "small",
+      "position": [
+        503,
+        261
+      ],
+      "size_pixels": 44
+    },
+    {
+      "type": "star",
+      "color": "beige",
+      "size_category": "small",
+      "position": [
+        92,
+        317
+      ],
+      "size_pixels": 46
     }
   ]
 }

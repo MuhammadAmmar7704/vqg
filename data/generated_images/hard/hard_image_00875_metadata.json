@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "hexagon",
+      "type": "heart",
       "color": "teal",
       "size_category": "medium",
       "position": [
-        440,
-        224
+        416,
+        107
       ],
-      "size_pixels": 90
+      "size_pixels": 140
     },
     {
-      "type": "circle",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        279,
-        155
-      ],
-      "size_pixels": 116
-    },
-    {
-      "type": "square",
-      "color": "light_mint",
-      "size_category": "small",
-      "position": [
-        67,
-        554
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "circle",
+      "type": "hexagon",
       "color": "orange",
       "size_category": "large",
       "position": [
-        274,
-        381
+        204,
+        250
       ],
-      "size_pixels": 196
+      "size_pixels": 248
     },
     {
-      "type": "hexagon",
-      "color": "teal",
+      "type": "rectangle",
+      "color": "mint",
       "size_category": "small",
       "position": [
-        491,
-        435
+        517,
+        373
       ],
-      "size_pixels": 50
+      "size_pixels": 58
     },
     {
-      "type": "oval",
-      "color": "lavender",
-      "size_category": "small",
-      "position": [
-        99,
-        141
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "heart",
-      "color": "yellow",
+      "type": "pentagon",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
         451,
-        531
+        510
       ],
-      "size_pixels": 58
+      "size_pixels": 52
+    },
+    {
+      "type": "circle",
+      "color": "pale_blue",
+      "size_category": "small",
+      "position": [
+        96,
+        500
+      ],
+      "size_pixels": 48
+    },
+    {
+      "type": "star",
+      "color": "mint",
+      "size_category": "small",
+      "position": [
+        435,
+        443
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "heart",
+      "color": "light_purple",
+      "size_category": "small",
+      "position": [
+        348,
+        471
+      ],
+      "size_pixels": 48
     }
   ]
 }

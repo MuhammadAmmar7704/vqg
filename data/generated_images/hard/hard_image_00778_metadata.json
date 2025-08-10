@@ -4,64 +4,64 @@
   "total_shapes": 6,
   "shapes": [
     {
-      "type": "hexagon",
-      "color": "pink",
-      "size_category": "medium",
+      "type": "pentagon",
+      "color": "light_green",
+      "size_category": "small",
       "position": [
-        495,
-        280
+        515,
+        515
       ],
-      "size_pixels": 118
-    },
-    {
-      "type": "hexagon",
-      "color": "light_blue",
-      "size_category": "large",
-      "position": [
-        339,
-        436
-      ],
-      "size_pixels": 222
-    },
-    {
-      "type": "circle",
-      "color": "pink",
-      "size_category": "medium",
-      "position": [
-        145,
-        188
-      ],
-      "size_pixels": 136
-    },
-    {
-      "type": "triangle",
-      "color": "mint",
-      "size_category": "medium",
-      "position": [
-        508,
-        114
-      ],
-      "size_pixels": 134
+      "size_pixels": 34
     },
     {
       "type": "rectangle",
-      "color": "pale_mint",
-      "size_category": "small",
+      "color": "orange",
+      "size_category": "large",
       "position": [
-        271,
-        258
+        343,
+        213
       ],
-      "size_pixels": 44
+      "size_pixels": 254
     },
     {
-      "type": "square",
-      "color": "lavender",
+      "type": "star",
+      "color": "yellow",
+      "size_category": "medium",
+      "position": [
+        118,
+        329
+      ],
+      "size_pixels": 112
+    },
+    {
+      "type": "circle",
+      "color": "soft_blue",
       "size_category": "small",
       "position": [
-        97,
-        480
+        106,
+        199
       ],
-      "size_pixels": 44
+      "size_pixels": 34
+    },
+    {
+      "type": "diamond",
+      "color": "teal",
+      "size_category": "medium",
+      "position": [
+        396,
+        506
+      ],
+      "size_pixels": 94
+    },
+    {
+      "type": "oval",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        373,
+        406
+      ],
+      "size_pixels": 60
     }
   ]
 }

@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 934,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "lavender",
-      "size_category": "large",
-      "position": [
-        470,
-        434
-      ],
-      "size_pixels": 216
-    },
-    {
-      "type": "pentagon",
-      "color": "light_mint",
-      "size_category": "large",
-      "position": [
-        275,
-        204
-      ],
-      "size_pixels": 240
-    },
-    {
-      "type": "triangle",
-      "color": "purple",
+      "type": "oval",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        506,
-        248
+        49,
+        156
       ],
-      "size_pixels": 32
+      "size_pixels": 44
     },
     {
-      "type": "circle",
-      "color": "yellow",
+      "type": "heart",
+      "color": "pale_mint",
+      "size_category": "large",
+      "position": [
+        183,
+        360
+      ],
+      "size_pixels": 260
+    },
+    {
+      "type": "square",
+      "color": "light_green",
       "size_category": "small",
       "position": [
-        139,
-        404
+        499,
+        300
       ],
-      "size_pixels": 58
+      "size_pixels": 44
     },
     {
       "type": "hexagon",
-      "color": "beige",
+      "color": "light_purple",
+      "size_category": "medium",
+      "position": [
+        505,
+        495
+      ],
+      "size_pixels": 112
+    },
+    {
+      "type": "star",
+      "color": "orange",
       "size_category": "small",
       "position": [
-        194,
-        539
+        376,
+        445
       ],
-      "size_pixels": 54
+      "size_pixels": 50
     },
     {
       "type": "circle",
-      "color": "light_blue",
-      "size_category": "small",
-      "position": [
-        42,
-        380
-      ],
-      "size_pixels": 36
-    },
-    {
-      "type": "diamond",
-      "color": "mint",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        513,
-        122
+        388,
+        205
       ],
-      "size_pixels": 106
+      "size_pixels": 94
     }
   ]
 }

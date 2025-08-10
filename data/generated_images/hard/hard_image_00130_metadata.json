@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 130,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
       "type": "pentagon",
-      "color": "light_green",
-      "size_category": "small",
+      "color": "pink",
+      "size_category": "large",
       "position": [
-        250,
-        525
+        363,
+        142
       ],
-      "size_pixels": 44
+      "size_pixels": 222
     },
     {
       "type": "square",
-      "color": "yellow",
+      "color": "light_green",
+      "size_category": "small",
+      "position": [
+        97,
+        70
+      ],
+      "size_pixels": 48
+    },
+    {
+      "type": "oval",
+      "color": "soft_blue",
       "size_category": "medium",
       "position": [
-        377,
-        280
+        314,
+        412
       ],
-      "size_pixels": 124
+      "size_pixels": 128
     },
     {
-      "type": "heart",
-      "color": "lavender",
+      "type": "triangle",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        235,
-        314
-      ],
-      "size_pixels": 36
-    },
-    {
-      "type": "heart",
-      "color": "orange",
-      "size_category": "small",
-      "position": [
-        291,
-        207
+        152,
+        475
       ],
       "size_pixels": 54
     },
     {
-      "type": "pentagon",
-      "color": "light_mint",
+      "type": "star",
+      "color": "light_purple",
+      "size_category": "small",
+      "position": [
+        473,
+        480
+      ],
+      "size_pixels": 48
+    },
+    {
+      "type": "heart",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        313,
-        425
+        159,
+        361
       ],
-      "size_pixels": 148
-    },
-    {
-      "type": "diamond",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        516,
-        60
-      ],
-      "size_pixels": 62
-    },
-    {
-      "type": "star",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        523,
-        518
-      ],
-      "size_pixels": 38
+      "size_pixels": 134
     }
   ]
 }

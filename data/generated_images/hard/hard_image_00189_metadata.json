@@ -5,73 +5,73 @@
   "shapes": [
     {
       "type": "triangle",
-      "color": "soft_purple",
+      "color": "light_pink",
       "size_category": "large",
       "position": [
-        177,
-        239
+        216,
+        348
       ],
-      "size_pixels": 208
+      "size_pixels": 270
     },
     {
-      "type": "circle",
-      "color": "light_purple",
-      "size_category": "large",
-      "position": [
-        453,
-        438
-      ],
-      "size_pixels": 222
-    },
-    {
-      "type": "star",
-      "color": "light_mint",
-      "size_category": "small",
-      "position": [
-        261,
-        73
-      ],
-      "size_pixels": 48
-    },
-    {
-      "type": "circle",
-      "color": "orange",
+      "type": "oval",
+      "color": "purple",
       "size_category": "medium",
       "position": [
-        236,
-        495
+        463,
+        454
       ],
-      "size_pixels": 106
+      "size_pixels": 96
     },
     {
       "type": "triangle",
+      "color": "beige",
+      "size_category": "small",
+      "position": [
+        437,
+        133
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "pentagon",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        94,
+        142
+      ],
+      "size_pixels": 100
+    },
+    {
+      "type": "hexagon",
       "color": "pale_mint",
       "size_category": "small",
       "position": [
-        334,
-        302
+        359,
+        216
       ],
-      "size_pixels": 56
+      "size_pixels": 44
     },
     {
-      "type": "heart",
+      "type": "square",
       "color": "light_pink",
       "size_category": "small",
       "position": [
-        494,
-        202
+        552,
+        222
       ],
-      "size_pixels": 56
+      "size_pixels": 46
     },
     {
-      "type": "triangle",
+      "type": "oval",
       "color": "pink",
       "size_category": "small",
       "position": [
-        179,
-        50
+        457,
+        303
       ],
-      "size_pixels": 54
+      "size_pixels": 58
     }
   ]
 }

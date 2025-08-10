@@ -1,75 +1,65 @@
 {
   "difficulty": "hard",
   "image_index": 924,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "yellow",
-      "size_category": "large",
-      "position": [
-        447,
-        402
-      ],
-      "size_pixels": 212
-    },
-    {
-      "type": "circle",
-      "color": "orange",
-      "size_category": "large",
-      "position": [
-        193,
-        146
-      ],
-      "size_pixels": 240
-    },
-    {
-      "type": "diamond",
-      "color": "mint",
-      "size_category": "small",
-      "position": [
-        131,
-        526
-      ],
-      "size_pixels": 42
-    },
-    {
-      "type": "rectangle",
-      "color": "light_pink",
-      "size_category": "small",
-      "position": [
-        476,
-        209
-      ],
-      "size_pixels": 58
-    },
-    {
-      "type": "triangle",
+      "type": "star",
       "color": "light_blue",
       "size_category": "small",
       "position": [
-        267,
-        310
+        232,
+        128
       ],
-      "size_pixels": 60
+      "size_pixels": 48
     },
     {
-      "type": "oval",
-      "color": "yellow",
-      "size_category": "small",
+      "type": "heart",
+      "color": "mint",
+      "size_category": "medium",
       "position": [
-        295,
-        526
+        388,
+        287
       ],
-      "size_pixels": 44
+      "size_pixels": 104
     },
     {
-      "type": "hexagon",
+      "type": "rectangle",
       "color": "teal",
       "size_category": "small",
       "position": [
-        214,
-        373
+        81,
+        407
+      ],
+      "size_pixels": 52
+    },
+    {
+      "type": "diamond",
+      "color": "light_pink",
+      "size_category": "small",
+      "position": [
+        221,
+        209
+      ],
+      "size_pixels": 48
+    },
+    {
+      "type": "diamond",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        411,
+        103
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "diamond",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        480,
+        317
       ],
       "size_pixels": 46
     }

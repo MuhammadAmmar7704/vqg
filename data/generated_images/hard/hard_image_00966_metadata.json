@@ -5,73 +5,73 @@
   "shapes": [
     {
       "type": "heart",
-      "color": "purple",
+      "color": "light_mint",
       "size_category": "large",
       "position": [
-        438,
-        205
+        195,
+        384
       ],
-      "size_pixels": 252
+      "size_pixels": 200
     },
     {
-      "type": "square",
-      "color": "mint",
-      "size_category": "small",
+      "type": "heart",
+      "color": "light_purple",
+      "size_category": "medium",
       "position": [
-        186,
-        293
+        333,
+        187
       ],
-      "size_pixels": 58
+      "size_pixels": 92
     },
     {
-      "type": "square",
-      "color": "pale_mint",
+      "type": "triangle",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        234,
-        73
-      ],
-      "size_pixels": 44
-    },
-    {
-      "type": "star",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        55,
-        289
+        448,
+        340
       ],
       "size_pixels": 42
     },
     {
-      "type": "square",
-      "color": "soft_purple",
+      "type": "rectangle",
+      "color": "beige",
       "size_category": "medium",
       "position": [
-        289,
-        508
+        459,
+        497
       ],
-      "size_pixels": 128
+      "size_pixels": 134
     },
     {
-      "type": "pentagon",
-      "color": "beige",
+      "type": "heart",
+      "color": "pale_mint",
       "size_category": "small",
       "position": [
-        377,
-        436
+        167,
+        68
       ],
-      "size_pixels": 54
+      "size_pixels": 50
+    },
+    {
+      "type": "circle",
+      "color": "light_purple",
+      "size_category": "small",
+      "position": [
+        465,
+        206
+      ],
+      "size_pixels": 38
     },
     {
       "type": "diamond",
-      "color": "orange",
+      "color": "lavender",
       "size_category": "small",
       "position": [
-        528,
-        430
+        314,
+        513
       ],
-      "size_pixels": 54
+      "size_pixels": 36
     }
   ]
 }

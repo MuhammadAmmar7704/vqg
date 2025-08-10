@@ -1,75 +1,65 @@
 {
   "difficulty": "hard",
   "image_index": 268,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "circle",
-      "color": "light_pink",
+      "type": "rectangle",
+      "color": "pink",
       "size_category": "small",
       "position": [
-        519,
-        377
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "oval",
-      "color": "orange",
-      "size_category": "large",
-      "position": [
-        366,
-        436
-      ],
-      "size_pixels": 228
-    },
-    {
-      "type": "heart",
-      "color": "light_mint",
-      "size_category": "medium",
-      "position": [
-        123,
-        243
-      ],
-      "size_pixels": 132
-    },
-    {
-      "type": "triangle",
-      "color": "purple",
-      "size_category": "small",
-      "position": [
-        390,
-        264
+        313,
+        107
       ],
       "size_pixels": 36
     },
     {
-      "type": "heart",
+      "type": "triangle",
       "color": "lavender",
-      "size_category": "medium",
+      "size_category": "large",
       "position": [
-        72,
-        100
+        153,
+        350
       ],
-      "size_pixels": 102
+      "size_pixels": 204
     },
     {
-      "type": "pentagon",
-      "color": "light_purple",
+      "type": "rectangle",
+      "color": "pale_blue",
       "size_category": "small",
       "position": [
-        124,
-        552
+        462,
+        283
       ],
-      "size_pixels": 56
+      "size_pixels": 40
     },
     {
-      "type": "hexagon",
-      "color": "pale_mint",
+      "type": "star",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        503,
-        315
+        344,
+        411
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "heart",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        231,
+        477
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "circle",
+      "color": "orange",
+      "size_category": "small",
+      "position": [
+        144,
+        528
       ],
       "size_pixels": 50
     }

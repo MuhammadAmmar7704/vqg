@@ -1,0 +1,57 @@
+{
+  "difficulty": "medium",
+  "image_index": 1108,
+  "total_shapes": 5,
+  "shapes": [
+    {
+      "type": "rectangle",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        326,
+        61
+      ],
+      "size_pixels": 44
+    },
+    {
+      "type": "square",
+      "color": "light_green",
+      "size_category": "large",
+      "position": [
+        360,
+        350
+      ],
+      "size_pixels": 226
+    },
+    {
+      "type": "star",
+      "color": "light_pink",
+      "size_category": "large",
+      "position": [
+        198,
+        179
+      ],
+      "size_pixels": 196
+    },
+    {
+      "type": "rectangle",
+      "color": "orange",
+      "size_category": "small",
+      "position": [
+        64,
+        332
+      ],
+      "size_pixels": 26
+    },
+    {
+      "type": "oval",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        163,
+        367
+      ],
+      "size_pixels": 50
+    }
+  ]
+}

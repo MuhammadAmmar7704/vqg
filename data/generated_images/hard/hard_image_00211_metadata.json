@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 211,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "heart",
-      "color": "yellow",
+      "type": "oval",
+      "color": "pink",
       "size_category": "medium",
       "position": [
-        372,
-        307
+        352,
+        215
       ],
-      "size_pixels": 144
-    },
-    {
-      "type": "rectangle",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        360,
-        462
-      ],
-      "size_pixels": 50
-    },
-    {
-      "type": "pentagon",
-      "color": "light_pink",
-      "size_category": "medium",
-      "position": [
-        87,
-        461
-      ],
-      "size_pixels": 118
+      "size_pixels": 142
     },
     {
       "type": "rectangle",
       "color": "light_green",
-      "size_category": "medium",
+      "size_category": "small",
       "position": [
-        89,
-        120
+        428,
+        534
       ],
-      "size_pixels": 102
+      "size_pixels": 48
+    },
+    {
+      "type": "diamond",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        234,
+        476
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "rectangle",
+      "color": "teal",
+      "size_category": "small",
+      "position": [
+        541,
+        390
+      ],
+      "size_pixels": 62
+    },
+    {
+      "type": "diamond",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        65,
+        472
+      ],
+      "size_pixels": 40
     },
     {
       "type": "heart",
-      "color": "pale_mint",
-      "size_category": "medium",
+      "color": "yellow",
+      "size_category": "small",
       "position": [
-        240,
-        434
+        499,
+        288
       ],
-      "size_pixels": 132
+      "size_pixels": 54
+    },
+    {
+      "type": "star",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        164,
+        288
+      ],
+      "size_pixels": 40
     }
   ]
 }

@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 850,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "square",
-      "color": "light_blue",
+      "type": "diamond",
+      "color": "lavender",
+      "size_category": "medium",
+      "position": [
+        364,
+        170
+      ],
+      "size_pixels": 114
+    },
+    {
+      "type": "pentagon",
+      "color": "soft_purple",
+      "size_category": "large",
+      "position": [
+        135,
+        322
+      ],
+      "size_pixels": 214
+    },
+    {
+      "type": "star",
+      "color": "pink",
       "size_category": "small",
       "position": [
-        201,
-        323
+        476,
+        241
       ],
-      "size_pixels": 52
+      "size_pixels": 34
     },
     {
       "type": "circle",
       "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        416,
-        163
-      ],
-      "size_pixels": 122
-    },
-    {
-      "type": "square",
-      "color": "light_pink",
-      "size_category": "medium",
-      "position": [
-        171,
-        162
-      ],
-      "size_pixels": 144
-    },
-    {
-      "type": "circle",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        310,
-        302
-      ],
-      "size_pixels": 128
-    },
-    {
-      "type": "square",
-      "color": "light_green",
       "size_category": "small",
       "position": [
-        291,
-        465
+        188,
+        129
       ],
-      "size_pixels": 50
+      "size_pixels": 34
     },
     {
-      "type": "heart",
-      "color": "light_mint",
+      "type": "pentagon",
+      "color": "purple",
       "size_category": "small",
       "position": [
-        121,
-        342
+        436,
+        437
       ],
-      "size_pixels": 42
-    },
-    {
-      "type": "oval",
-      "color": "mint",
-      "size_category": "medium",
-      "position": [
-        450,
-        442
-      ],
-      "size_pixels": 138
+      "size_pixels": 44
     }
   ]
 }

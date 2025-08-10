@@ -1,67 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 959,
-  "total_shapes": 6,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "circle",
-      "color": "lavender",
-      "size_category": "small",
+      "type": "rectangle",
+      "color": "light_mint",
+      "size_category": "large",
       "position": [
-        187,
-        251
+        450,
+        165
       ],
-      "size_pixels": 46
-    },
-    {
-      "type": "pentagon",
-      "color": "yellow",
-      "size_category": "small",
-      "position": [
-        336,
-        478
-      ],
-      "size_pixels": 50
-    },
-    {
-      "type": "pentagon",
-      "color": "lavender",
-      "size_category": "small",
-      "position": [
-        521,
-        110
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "circle",
-      "color": "purple",
-      "size_category": "medium",
-      "position": [
-        458,
-        251
-      ],
-      "size_pixels": 92
-    },
-    {
-      "type": "diamond",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        225,
-        542
-      ],
-      "size_pixels": 40
+      "size_pixels": 254
     },
     {
       "type": "star",
-      "color": "light_mint",
+      "color": "beige",
       "size_category": "small",
       "position": [
-        231,
-        146
+        322,
+        307
       ],
-      "size_pixels": 58
+      "size_pixels": 34
+    },
+    {
+      "type": "square",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        394,
+        421
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "rectangle",
+      "color": "light_purple",
+      "size_category": "medium",
+      "position": [
+        492,
+        494
+      ],
+      "size_pixels": 130
+    },
+    {
+      "type": "heart",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        199,
+        88
+      ],
+      "size_pixels": 44
+    },
+    {
+      "type": "triangle",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        153,
+        235
+      ],
+      "size_pixels": 54
+    },
+    {
+      "type": "rectangle",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        122,
+        414
+      ],
+      "size_pixels": 98
     }
   ]
 }

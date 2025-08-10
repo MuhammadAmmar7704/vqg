@@ -1,67 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 321,
-  "total_shapes": 6,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "oval",
-      "color": "soft_purple",
-      "size_category": "small",
+      "type": "square",
+      "color": "pale_mint",
+      "size_category": "large",
       "position": [
-        433,
-        224
+        204,
+        377
       ],
-      "size_pixels": 50
-    },
-    {
-      "type": "heart",
-      "color": "beige",
-      "size_category": "small",
-      "position": [
-        474,
-        369
-      ],
-      "size_pixels": 42
+      "size_pixels": 204
     },
     {
       "type": "circle",
-      "color": "light_green",
-      "size_category": "large",
+      "color": "light_pink",
+      "size_category": "small",
       "position": [
-        245,
-        268
+        520,
+        183
       ],
-      "size_pixels": 260
+      "size_pixels": 60
     },
     {
-      "type": "rectangle",
+      "type": "oval",
+      "color": "pale_mint",
+      "size_category": "medium",
+      "position": [
+        488,
+        405
+      ],
+      "size_pixels": 124
+    },
+    {
+      "type": "pentagon",
+      "color": "light_mint",
+      "size_category": "medium",
+      "position": [
+        118,
+        167
+      ],
+      "size_pixels": 130
+    },
+    {
+      "type": "square",
+      "color": "soft_blue",
+      "size_category": "small",
+      "position": [
+        274,
+        67
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "pentagon",
+      "color": "light_green",
+      "size_category": "small",
+      "position": [
+        68,
+        304
+      ],
+      "size_pixels": 52
+    },
+    {
+      "type": "diamond",
       "color": "light_blue",
       "size_category": "small",
       "position": [
-        552,
-        281
+        393,
+        128
       ],
-      "size_pixels": 42
-    },
-    {
-      "type": "triangle",
-      "color": "soft_blue",
-      "size_category": "medium",
-      "position": [
-        437,
-        460
-      ],
-      "size_pixels": 90
-    },
-    {
-      "type": "hexagon",
-      "color": "light_green",
-      "size_category": "small",
-      "position": [
-        447,
-        559
-      ],
-      "size_pixels": 36
+      "size_pixels": 58
     }
   ]
 }

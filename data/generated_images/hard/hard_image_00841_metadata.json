@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 841,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "rectangle",
-      "color": "pink",
+      "type": "oval",
+      "color": "purple",
+      "size_category": "small",
+      "position": [
+        437,
+        272
+      ],
+      "size_pixels": 54
+    },
+    {
+      "type": "diamond",
+      "color": "light_purple",
+      "size_category": "small",
+      "position": [
+        79,
+        202
+      ],
+      "size_pixels": 62
+    },
+    {
+      "type": "diamond",
+      "color": "beige",
       "size_category": "medium",
       "position": [
-        84,
-        166
+        391,
+        415
       ],
-      "size_pixels": 118
+      "size_pixels": 142
+    },
+    {
+      "type": "heart",
+      "color": "mint",
+      "size_category": "small",
+      "position": [
+        196,
+        349
+      ],
+      "size_pixels": 58
     },
     {
       "type": "hexagon",
-      "color": "teal",
+      "color": "yellow",
       "size_category": "small",
       "position": [
-        78,
-        269
+        304,
+        486
       ],
       "size_pixels": 36
     },
     {
-      "type": "diamond",
-      "color": "pale_blue",
-      "size_category": "medium",
-      "position": [
-        341,
-        112
-      ],
-      "size_pixels": 110
-    },
-    {
-      "type": "star",
+      "type": "square",
       "color": "pale_mint",
-      "size_category": "large",
-      "position": [
-        395,
-        361
-      ],
-      "size_pixels": 266
-    },
-    {
-      "type": "pentagon",
-      "color": "lavender",
-      "size_category": "medium",
-      "position": [
-        491,
-        150
-      ],
-      "size_pixels": 144
-    },
-    {
-      "type": "triangle",
-      "color": "lavender",
       "size_category": "small",
       "position": [
-        168,
-        428
+        554,
+        310
       ],
-      "size_pixels": 50
-    },
-    {
-      "type": "triangle",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        114,
-        525
-      ],
-      "size_pixels": 96
+      "size_pixels": 52
     }
   ]
 }

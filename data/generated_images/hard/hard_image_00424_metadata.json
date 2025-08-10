@@ -1,75 +1,65 @@
 {
   "difficulty": "hard",
   "image_index": 424,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "diamond",
-      "color": "soft_purple",
-      "size_category": "medium",
-      "position": [
-        379,
-        81
-      ],
-      "size_pixels": 108
-    },
-    {
-      "type": "hexagon",
-      "color": "light_mint",
-      "size_category": "medium",
-      "position": [
-        412,
-        355
-      ],
-      "size_pixels": 104
-    },
-    {
-      "type": "star",
-      "color": "teal",
+      "type": "pentagon",
+      "color": "soft_blue",
       "size_category": "small",
       "position": [
-        287,
-        350
+        542,
+        219
       ],
       "size_pixels": 54
     },
     {
+      "type": "triangle",
+      "color": "light_pink",
+      "size_category": "medium",
+      "position": [
+        509,
+        508
+      ],
+      "size_pixels": 100
+    },
+    {
       "type": "hexagon",
+      "color": "pale_mint",
+      "size_category": "medium",
+      "position": [
+        368,
+        78
+      ],
+      "size_pixels": 104
+    },
+    {
+      "type": "pentagon",
       "color": "yellow",
       "size_category": "large",
       "position": [
-        192,
-        184
+        253,
+        431
       ],
-      "size_pixels": 204
+      "size_pixels": 236
+    },
+    {
+      "type": "pentagon",
+      "color": "orange",
+      "size_category": "small",
+      "position": [
+        451,
+        245
+      ],
+      "size_pixels": 60
     },
     {
       "type": "oval",
-      "color": "light_purple",
-      "size_category": "medium",
-      "position": [
-        129,
-        425
-      ],
-      "size_pixels": 110
-    },
-    {
-      "type": "square",
-      "color": "light_purple",
+      "color": "soft_purple",
       "size_category": "small",
       "position": [
-        538,
-        86
-      ],
-      "size_pixels": 62
-    },
-    {
-      "type": "square",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        490,
-        484
+        368,
+        182
       ],
       "size_pixels": 38
     }

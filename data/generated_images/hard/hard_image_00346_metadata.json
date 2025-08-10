@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "pentagon",
-      "color": "light_green",
-      "size_category": "small",
-      "position": [
-        452,
-        53
-      ],
-      "size_pixels": 60
-    },
-    {
-      "type": "heart",
-      "color": "purple",
-      "size_category": "small",
-      "position": [
-        230,
-        391
-      ],
-      "size_pixels": 34
-    },
-    {
-      "type": "rectangle",
-      "color": "teal",
-      "size_category": "small",
-      "position": [
-        534,
-        285
-      ],
-      "size_pixels": 44
-    },
-    {
-      "type": "rectangle",
-      "color": "orange",
+      "type": "diamond",
+      "color": "pale_mint",
       "size_category": "medium",
       "position": [
-        341,
-        196
+        402,
+        119
       ],
-      "size_pixels": 100
+      "size_pixels": 134
     },
     {
-      "type": "square",
-      "color": "light_mint",
-      "size_category": "medium",
-      "position": [
-        442,
-        375
-      ],
-      "size_pixels": 136
-    },
-    {
-      "type": "circle",
-      "color": "soft_purple",
-      "size_category": "medium",
-      "position": [
-        93,
-        165
-      ],
-      "size_pixels": 96
-    },
-    {
-      "type": "pentagon",
+      "type": "hexagon",
       "color": "light_blue",
       "size_category": "medium",
       "position": [
-        102,
+        476,
+        369
+      ],
+      "size_pixels": 138
+    },
+    {
+      "type": "diamond",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        297,
+        534
+      ],
+      "size_pixels": 58
+    },
+    {
+      "type": "triangle",
+      "color": "purple",
+      "size_category": "large",
+      "position": [
+        209,
+        307
+      ],
+      "size_pixels": 252
+    },
+    {
+      "type": "square",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        354,
         459
       ],
-      "size_pixels": 122
+      "size_pixels": 48
+    },
+    {
+      "type": "oval",
+      "color": "orange",
+      "size_category": "small",
+      "position": [
+        91,
+        102
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "diamond",
+      "color": "light_pink",
+      "size_category": "medium",
+      "position": [
+        225,
+        90
+      ],
+      "size_pixels": 124
     }
   ]
 }

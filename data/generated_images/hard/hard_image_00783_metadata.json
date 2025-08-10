@@ -5,73 +5,73 @@
   "shapes": [
     {
       "type": "oval",
-      "color": "lavender",
+      "color": "yellow",
       "size_category": "medium",
       "position": [
-        202,
-        191
+        309,
+        276
       ],
-      "size_pixels": 126
+      "size_pixels": 104
     },
     {
-      "type": "pentagon",
-      "color": "soft_purple",
+      "type": "circle",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        443,
-        508
+        250,
+        125
       ],
-      "size_pixels": 100
+      "size_pixels": 116
     },
     {
-      "type": "square",
-      "color": "light_purple",
-      "size_category": "medium",
+      "type": "heart",
+      "color": "light_green",
+      "size_category": "small",
       "position": [
-        513,
-        87
+        78,
+        102
       ],
-      "size_pixels": 124
+      "size_pixels": 38
     },
     {
-      "type": "hexagon",
-      "color": "light_pink",
+      "type": "diamond",
+      "color": "pink",
       "size_category": "medium",
       "position": [
-        201,
-        388
+        474,
+        324
       ],
-      "size_pixels": 148
+      "size_pixels": 122
     },
     {
       "type": "hexagon",
       "color": "yellow",
       "size_category": "medium",
       "position": [
-        321,
-        118
+        80,
+        381
       ],
-      "size_pixels": 104
+      "size_pixels": 110
     },
     {
-      "type": "square",
-      "color": "teal",
+      "type": "triangle",
+      "color": "yellow",
       "size_category": "small",
       "position": [
-        372,
-        266
-      ],
-      "size_pixels": 40
-    },
-    {
-      "type": "oval",
-      "color": "purple",
-      "size_category": "small",
-      "position": [
-        216,
-        72
+        460,
+        163
       ],
       "size_pixels": 60
+    },
+    {
+      "type": "triangle",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        389,
+        460
+      ],
+      "size_pixels": 132
     }
   ]
 }

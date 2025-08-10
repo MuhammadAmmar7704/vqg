@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 415,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "circle",
-      "color": "pale_blue",
-      "size_category": "medium",
-      "position": [
-        235,
-        468
-      ],
-      "size_pixels": 100
-    },
-    {
-      "type": "star",
+      "type": "diamond",
       "color": "light_mint",
       "size_category": "large",
       "position": [
+        283,
+        258
+      ],
+      "size_pixels": 210
+    },
+    {
+      "type": "square",
+      "color": "orange",
+      "size_category": "large",
+      "position": [
         453,
-        349
+        422
       ],
-      "size_pixels": 252
+      "size_pixels": 202
     },
     {
       "type": "hexagon",
-      "color": "purple",
+      "color": "light_green",
       "size_category": "small",
       "position": [
-        98,
-        525
+        168,
+        369
       ],
-      "size_pixels": 56
+      "size_pixels": 36
     },
     {
-      "type": "hexagon",
-      "color": "soft_purple",
+      "type": "rectangle",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        311,
+        56
+      ],
+      "size_pixels": 46
+    },
+    {
+      "type": "heart",
+      "color": "beige",
+      "size_category": "small",
+      "position": [
+        91,
+        166
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "diamond",
+      "color": "orange",
       "size_category": "medium",
       "position": [
-        150,
-        327
+        219,
+        468
       ],
-      "size_pixels": 90
-    },
-    {
-      "type": "hexagon",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        482,
-        123
-      ],
-      "size_pixels": 52
-    },
-    {
-      "type": "triangle",
-      "color": "purple",
-      "size_category": "medium",
-      "position": [
-        274,
-        242
-      ],
-      "size_pixels": 110
-    },
-    {
-      "type": "oval",
-      "color": "lavender",
-      "size_category": "small",
-      "position": [
-        385,
-        44
-      ],
-      "size_pixels": 34
+      "size_pixels": 146
     }
   ]
 }

@@ -1,67 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 332,
-  "total_shapes": 6,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        402,
-        389
-      ],
-      "size_pixels": 94
-    },
-    {
-      "type": "heart",
-      "color": "beige",
-      "size_category": "medium",
-      "position": [
-        223,
-        419
-      ],
-      "size_pixels": 148
-    },
-    {
-      "type": "star",
+      "type": "hexagon",
       "color": "light_blue",
+      "size_category": "medium",
+      "position": [
+        210,
+        293
+      ],
+      "size_pixels": 138
+    },
+    {
+      "type": "oval",
+      "color": "lavender",
       "size_category": "small",
       "position": [
-        531,
-        109
+        491,
+        514
+      ],
+      "size_pixels": 42
+    },
+    {
+      "type": "rectangle",
+      "color": "light_green",
+      "size_category": "small",
+      "position": [
+        411,
+        513
       ],
       "size_pixels": 46
     },
     {
-      "type": "square",
-      "color": "soft_purple",
+      "type": "heart",
+      "color": "orange",
       "size_category": "large",
       "position": [
-        173,
-        192
+        401,
+        153
       ],
-      "size_pixels": 228
+      "size_pixels": 196
     },
     {
-      "type": "heart",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        477,
-        234
-      ],
-      "size_pixels": 52
-    },
-    {
-      "type": "heart",
+      "type": "oval",
       "color": "light_blue",
       "size_category": "small",
       "position": [
-        78,
-        384
+        283,
+        52
       ],
-      "size_pixels": 36
+      "size_pixels": 42
+    },
+    {
+      "type": "hexagon",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        113,
+        63
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "pentagon",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        234,
+        477
+      ],
+      "size_pixels": 44
     }
   ]
 }

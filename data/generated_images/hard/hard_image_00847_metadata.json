@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 847,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "diamond",
-      "color": "beige",
-      "size_category": "large",
-      "position": [
-        354,
-        252
-      ],
-      "size_pixels": 246
-    },
-    {
-      "type": "heart",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        119,
-        413
-      ],
-      "size_pixels": 106
-    },
-    {
-      "type": "diamond",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        140,
-        180
-      ],
-      "size_pixels": 142
-    },
-    {
-      "type": "hexagon",
-      "color": "beige",
+      "type": "triangle",
+      "color": "yellow",
       "size_category": "small",
       "position": [
-        526,
-        195
+        279,
+        486
       ],
-      "size_pixels": 58
+      "size_pixels": 48
     },
     {
       "type": "oval",
-      "color": "beige",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        247,
+        176
+      ],
+      "size_pixels": 56
+    },
+    {
+      "type": "oval",
+      "color": "teal",
+      "size_category": "large",
+      "position": [
+        452,
+        151
+      ],
+      "size_pixels": 226
+    },
+    {
+      "type": "heart",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        356,
-        508
+        402,
+        512
       ],
-      "size_pixels": 142
+      "size_pixels": 130
     },
     {
-      "type": "hexagon",
+      "type": "circle",
       "color": "teal",
-      "size_category": "small",
+      "size_category": "large",
       "position": [
-        48,
-        322
+        176,
+        341
       ],
-      "size_pixels": 52
-    },
-    {
-      "type": "square",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        538,
-        415
-      ],
-      "size_pixels": 44
+      "size_pixels": 260
     }
   ]
 }

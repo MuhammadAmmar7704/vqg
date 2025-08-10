@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 881,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "hexagon",
-      "color": "teal",
+      "type": "pentagon",
+      "color": "light_purple",
       "size_category": "medium",
       "position": [
-        450,
-        310
+        209,
+        431
       ],
-      "size_pixels": 128
+      "size_pixels": 120
     },
     {
-      "type": "rectangle",
-      "color": "teal",
-      "size_category": "small",
-      "position": [
-        450,
-        508
-      ],
-      "size_pixels": 46
-    },
-    {
-      "type": "heart",
+      "type": "diamond",
       "color": "lavender",
-      "size_category": "small",
+      "size_category": "large",
       "position": [
-        370,
-        395
+        267,
+        145
       ],
-      "size_pixels": 48
+      "size_pixels": 198
     },
     {
-      "type": "pentagon",
-      "color": "mint",
-      "size_category": "small",
+      "type": "circle",
+      "color": "lavender",
+      "size_category": "medium",
       "position": [
-        66,
-        382
+        465,
+        465
       ],
-      "size_pixels": 48
+      "size_pixels": 124
     },
     {
       "type": "square",
-      "color": "orange",
-      "size_category": "large",
+      "color": "beige",
+      "size_category": "small",
       "position": [
-        197,
-        192
+        531,
+        374
       ],
-      "size_pixels": 262
+      "size_pixels": 54
+    },
+    {
+      "type": "hexagon",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        436,
+        343
+      ],
+      "size_pixels": 44
+    },
+    {
+      "type": "triangle",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        79,
+        272
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "oval",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        373,
+        46
+      ],
+      "size_pixels": 52
     }
   ]
 }

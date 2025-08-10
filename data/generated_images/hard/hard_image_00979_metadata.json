@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 979,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "star",
-      "color": "pink",
-      "size_category": "small",
+      "type": "pentagon",
+      "color": "orange",
+      "size_category": "large",
       "position": [
-        267,
-        115
+        191,
+        209
       ],
-      "size_pixels": 58
+      "size_pixels": 256
     },
     {
       "type": "heart",
-      "color": "lavender",
-      "size_category": "small",
-      "position": [
-        547,
-        460
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "circle",
-      "color": "teal",
+      "color": "light_purple",
       "size_category": "medium",
       "position": [
-        336,
-        461
+        489,
+        263
       ],
       "size_pixels": 92
     },
     {
-      "type": "heart",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        115,
-        351
-      ],
-      "size_pixels": 126
-    },
-    {
-      "type": "circle",
-      "color": "pale_mint",
+      "type": "rectangle",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        103,
-        83
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "star",
-      "color": "mint",
-      "size_category": "medium",
-      "position": [
-        380,
-        183
-      ],
-      "size_pixels": 144
-    },
-    {
-      "type": "hexagon",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        484,
-        369
+        526,
+        512
       ],
       "size_pixels": 46
+    },
+    {
+      "type": "square",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        355,
+        355
+      ],
+      "size_pixels": 62
+    },
+    {
+      "type": "heart",
+      "color": "purple",
+      "size_category": "small",
+      "position": [
+        272,
+        422
+      ],
+      "size_pixels": 56
     }
   ]
 }

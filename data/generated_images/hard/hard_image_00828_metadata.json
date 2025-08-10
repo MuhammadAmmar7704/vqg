@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "oval",
-      "color": "yellow",
-      "size_category": "medium",
-      "position": [
-        247,
-        184
-      ],
-      "size_pixels": 126
-    },
-    {
-      "type": "star",
-      "color": "mint",
+      "type": "diamond",
+      "color": "light_green",
       "size_category": "small",
       "position": [
-        272,
-        448
+        255,
+        187
       ],
-      "size_pixels": 42
+      "size_pixels": 34
     },
     {
-      "type": "heart",
-      "color": "light_purple",
-      "size_category": "large",
-      "position": [
-        438,
-        419
-      ],
-      "size_pixels": 244
-    },
-    {
-      "type": "star",
+      "type": "diamond",
       "color": "pale_blue",
       "size_category": "small",
       "position": [
-        425,
-        90
+        171,
+        143
       ],
-      "size_pixels": 50
+      "size_pixels": 52
     },
     {
-      "type": "oval",
-      "color": "light_purple",
+      "type": "triangle",
+      "color": "beige",
       "size_category": "small",
       "position": [
-        53,
-        244
+        517,
+        414
+      ],
+      "size_pixels": 54
+    },
+    {
+      "type": "heart",
+      "color": "beige",
+      "size_category": "medium",
+      "position": [
+        269,
+        471
+      ],
+      "size_pixels": 142
+    },
+    {
+      "type": "pentagon",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        144,
+        285
+      ],
+      "size_pixels": 60
+    },
+    {
+      "type": "star",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        123,
+        83
       ],
       "size_pixels": 44
     },
     {
-      "type": "rectangle",
-      "color": "light_purple",
-      "size_category": "small",
-      "position": [
-        206,
-        506
-      ],
-      "size_pixels": 58
-    },
-    {
-      "type": "star",
-      "color": "yellow",
+      "type": "oval",
+      "color": "light_blue",
       "size_category": "medium",
       "position": [
-        392,
-        202
+        516,
+        514
       ],
-      "size_pixels": 100
+      "size_pixels": 92
     }
   ]
 }

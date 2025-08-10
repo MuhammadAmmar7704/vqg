@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 271,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "pale_blue",
-      "size_category": "large",
-      "position": [
-        150,
-        233
-      ],
-      "size_pixels": 196
-    },
-    {
-      "type": "heart",
-      "color": "pale_blue",
-      "size_category": "large",
-      "position": [
-        420,
-        160
-      ],
-      "size_pixels": 246
-    },
-    {
-      "type": "oval",
-      "color": "orange",
+      "type": "diamond",
+      "color": "pale_mint",
       "size_category": "medium",
       "position": [
-        313,
-        442
+        470,
+        507
       ],
-      "size_pixels": 144
-    },
-    {
-      "type": "square",
-      "color": "teal",
-      "size_category": "small",
-      "position": [
-        343,
-        318
-      ],
-      "size_pixels": 44
+      "size_pixels": 146
     },
     {
       "type": "diamond",
-      "color": "soft_purple",
-      "size_category": "small",
+      "color": "pale_blue",
+      "size_category": "large",
       "position": [
-        155,
-        421
+        166,
+        399
       ],
-      "size_pixels": 56
+      "size_pixels": 210
     },
     {
-      "type": "triangle",
-      "color": "light_pink",
-      "size_category": "small",
-      "position": [
-        72,
-        558
-      ],
-      "size_pixels": 44
-    },
-    {
-      "type": "circle",
+      "type": "oval",
       "color": "light_green",
+      "size_category": "large",
+      "position": [
+        355,
+        234
+      ],
+      "size_pixels": 204
+    },
+    {
+      "type": "pentagon",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        252,
-        141
+        520,
+        58
       ],
-      "size_pixels": 36
+      "size_pixels": 60
+    },
+    {
+      "type": "diamond",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        77,
+        145
+      ],
+      "size_pixels": 96
+    },
+    {
+      "type": "square",
+      "color": "pale_mint",
+      "size_category": "small",
+      "position": [
+        76,
+        267
+      ],
+      "size_pixels": 50
     }
   ]
 }

@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "rectangle",
-      "color": "light_pink",
-      "size_category": "medium",
-      "position": [
-        465,
-        113
-      ],
-      "size_pixels": 132
-    },
-    {
-      "type": "triangle",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        239,
-        269
-      ],
-      "size_pixels": 38
-    },
-    {
       "type": "pentagon",
-      "color": "lavender",
+      "color": "orange",
+      "size_category": "large",
+      "position": [
+        343,
+        232
+      ],
+      "size_pixels": 208
+    },
+    {
+      "type": "circle",
+      "color": "mint",
       "size_category": "small",
       "position": [
-        158,
-        138
+        108,
+        273
       ],
       "size_pixels": 50
     },
     {
-      "type": "circle",
-      "color": "pale_mint",
+      "type": "triangle",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        554,
+        545
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "heart",
+      "color": "light_pink",
       "size_category": "medium",
       "position": [
-        445,
-        295
+        182,
+        452
       ],
-      "size_pixels": 100
+      "size_pixels": 132
     },
     {
       "type": "oval",
-      "color": "mint",
+      "color": "light_mint",
       "size_category": "medium",
       "position": [
-        147,
-        482
+        358,
+        509
       ],
-      "size_pixels": 102
+      "size_pixels": 142
     },
     {
-      "type": "rectangle",
-      "color": "beige",
+      "type": "star",
+      "color": "teal",
       "size_category": "small",
       "position": [
-        179,
-        330
+        488,
+        529
       ],
-      "size_pixels": 38
+      "size_pixels": 52
     },
     {
-      "type": "circle",
-      "color": "light_pink",
-      "size_category": "small",
+      "type": "diamond",
+      "color": "lavender",
+      "size_category": "medium",
       "position": [
-        356,
-        397
+        503,
+        128
       ],
-      "size_pixels": 46
+      "size_pixels": 116
     }
   ]
 }

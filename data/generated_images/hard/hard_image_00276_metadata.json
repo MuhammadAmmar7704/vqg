@@ -5,63 +5,63 @@
   "shapes": [
     {
       "type": "rectangle",
-      "color": "yellow",
-      "size_category": "small",
+      "color": "teal",
+      "size_category": "medium",
       "position": [
-        54,
-        164
+        461,
+        289
       ],
-      "size_pixels": 34
+      "size_pixels": 142
     },
     {
       "type": "oval",
-      "color": "purple",
+      "color": "pale_blue",
       "size_category": "small",
       "position": [
-        120,
-        453
+        230,
+        61
       ],
-      "size_pixels": 38
+      "size_pixels": 54
     },
     {
       "type": "hexagon",
-      "color": "mint",
-      "size_category": "medium",
-      "position": [
-        395,
-        525
-      ],
-      "size_pixels": 108
-    },
-    {
-      "type": "triangle",
-      "color": "light_purple",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        380,
-        398
+        497,
+        527
       ],
-      "size_pixels": 40
+      "size_pixels": 46
     },
     {
-      "type": "circle",
-      "color": "soft_purple",
+      "type": "hexagon",
+      "color": "soft_blue",
       "size_category": "small",
       "position": [
-        367,
-        217
+        288,
+        384
       ],
-      "size_pixels": 40
+      "size_pixels": 56
     },
     {
       "type": "oval",
-      "color": "light_green",
+      "color": "soft_blue",
       "size_category": "small",
       "position": [
-        154,
-        354
+        339,
+        215
       ],
-      "size_pixels": 44
+      "size_pixels": 54
+    },
+    {
+      "type": "star",
+      "color": "beige",
+      "size_category": "small",
+      "position": [
+        149,
+        69
+      ],
+      "size_pixels": 42
     }
   ]
 }

@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 302,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "heart",
-      "color": "light_purple",
-      "size_category": "medium",
-      "position": [
-        487,
-        448
-      ],
-      "size_pixels": 146
-    },
-    {
-      "type": "heart",
-      "color": "light_mint",
-      "size_category": "large",
-      "position": [
-        415,
-        231
-      ],
-      "size_pixels": 270
-    },
-    {
-      "type": "square",
+      "type": "pentagon",
       "color": "yellow",
       "size_category": "small",
       "position": [
-        232,
-        166
+        350,
+        398
+      ],
+      "size_pixels": 42
+    },
+    {
+      "type": "square",
+      "color": "beige",
+      "size_category": "medium",
+      "position": [
+        227,
+        512
+      ],
+      "size_pixels": 116
+    },
+    {
+      "type": "diamond",
+      "color": "orange",
+      "size_category": "large",
+      "position": [
+        260,
+        246
+      ],
+      "size_pixels": 214
+    },
+    {
+      "type": "triangle",
+      "color": "purple",
+      "size_category": "small",
+      "position": [
+        495,
+        121
       ],
       "size_pixels": 58
     },
     {
-      "type": "diamond",
-      "color": "pale_blue",
+      "type": "pentagon",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        96,
-        530
+        480,
+        478
       ],
-      "size_pixels": 46
+      "size_pixels": 58
     },
     {
       "type": "triangle",
-      "color": "orange",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        192,
-        57
+        337,
+        99
       ],
-      "size_pixels": 56
-    },
-    {
-      "type": "diamond",
-      "color": "light_pink",
-      "size_category": "medium",
-      "position": [
-        164,
-        307
-      ],
-      "size_pixels": 134
-    },
-    {
-      "type": "diamond",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        50,
-        145
-      ],
-      "size_pixels": 46
+      "size_pixels": 36
     }
   ]
 }

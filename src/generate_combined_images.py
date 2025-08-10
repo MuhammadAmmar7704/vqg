@@ -352,7 +352,7 @@ def generate_all_datasets():
     print("✅ Found all required individual shape categories")
     print("🔄 Starting combined image generation...")
     
-    configs = [EASY_CONFIG, MEDIUM_CONFIG, HARD_CONFIG]
+    configs = [HARD_CONFIG]
     
     for config in configs:
         generate_dataset(config)

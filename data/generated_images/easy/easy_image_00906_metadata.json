@@ -5,23 +5,23 @@
   "shapes": [
     {
       "type": "triangle",
-      "color": "yellow",
-      "size_category": "medium",
-      "position": [
-        299,
-        294
-      ],
-      "size_pixels": 92
-    },
-    {
-      "type": "circle",
       "color": "light_pink",
       "size_category": "medium",
       "position": [
-        301,
-        173
+        122,
+        140
       ],
-      "size_pixels": 58
+      "size_pixels": 70
+    },
+    {
+      "type": "square",
+      "color": "lavender",
+      "size_category": "medium",
+      "position": [
+        295,
+        197
+      ],
+      "size_pixels": 74
     }
   ]
 }

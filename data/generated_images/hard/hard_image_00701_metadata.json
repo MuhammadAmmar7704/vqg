@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 701,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
       "type": "star",
       "color": "yellow",
       "size_category": "small",
       "position": [
-        128,
-        447
+        309,
+        376
       ],
-      "size_pixels": 54
+      "size_pixels": 32
     },
     {
-      "type": "rectangle",
-      "color": "orange",
+      "type": "hexagon",
+      "color": "pale_mint",
+      "size_category": "medium",
+      "position": [
+        129,
+        428
+      ],
+      "size_pixels": 92
+    },
+    {
+      "type": "star",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        282,
-        82
+        300,
+        70
       ],
-      "size_pixels": 44
+      "size_pixels": 32
     },
     {
-      "type": "diamond",
-      "color": "teal",
-      "size_category": "large",
-      "position": [
-        327,
-        298
-      ],
-      "size_pixels": 256
-    },
-    {
-      "type": "oval",
-      "color": "light_blue",
+      "type": "circle",
+      "color": "pale_mint",
       "size_category": "small",
       "position": [
-        236,
-        553
+        535,
+        143
       ],
       "size_pixels": 46
     },
     {
-      "type": "hexagon",
-      "color": "light_green",
+      "type": "square",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        403,
+        453
+      ],
+      "size_pixels": 124
+    },
+    {
+      "type": "diamond",
+      "color": "pink",
+      "size_category": "large",
+      "position": [
+        119,
+        236
+      ],
+      "size_pixels": 194
+    },
+    {
+      "type": "diamond",
+      "color": "light_purple",
       "size_category": "small",
       "position": [
-        370,
-        88
+        372,
+        137
       ],
-      "size_pixels": 60
+      "size_pixels": 46
     }
   ]
 }

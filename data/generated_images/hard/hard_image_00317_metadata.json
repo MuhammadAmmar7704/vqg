@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 317,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "triangle",
+      "type": "rectangle",
+      "color": "pale_mint",
+      "size_category": "medium",
+      "position": [
+        190,
+        287
+      ],
+      "size_pixels": 100
+    },
+    {
+      "type": "pentagon",
       "color": "lavender",
       "size_category": "medium",
       "position": [
-        394,
-        199
+        350,
+        477
       ],
-      "size_pixels": 142
+      "size_pixels": 116
     },
     {
-      "type": "hexagon",
-      "color": "light_purple",
-      "size_category": "small",
+      "type": "oval",
+      "color": "teal",
+      "size_category": "medium",
       "position": [
-        141,
-        265
+        454,
+        339
       ],
-      "size_pixels": 62
+      "size_pixels": 106
     },
     {
-      "type": "circle",
-      "color": "mint",
+      "type": "heart",
+      "color": "light_pink",
       "size_category": "small",
       "position": [
-        175,
-        160
-      ],
-      "size_pixels": 40
-    },
-    {
-      "type": "square",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        328,
-        559
+        47,
+        100
       ],
       "size_pixels": 36
     },
     {
       "type": "triangle",
-      "color": "light_pink",
+      "color": "orange",
       "size_category": "small",
       "position": [
-        211,
-        447
+        308,
+        118
       ],
-      "size_pixels": 40
+      "size_pixels": 46
     },
     {
       "type": "heart",
-      "color": "pink",
-      "size_category": "large",
-      "position": [
-        471,
-        471
-      ],
-      "size_pixels": 218
-    },
-    {
-      "type": "heart",
-      "color": "teal",
+      "color": "light_green",
       "size_category": "small",
       "position": [
-        184,
-        536
+        183,
+        547
       ],
-      "size_pixels": 58
+      "size_pixels": 60
     }
   ]
 }

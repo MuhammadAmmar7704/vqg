@@ -1,0 +1,37 @@
+{
+  "difficulty": "easy",
+  "image_index": 9871,
+  "total_shapes": 3,
+  "shapes": [
+    {
+      "type": "circle",
+      "color": "light_pink",
+      "size_category": "medium",
+      "position": [
+        335,
+        85
+      ],
+      "size_pixels": 60
+    },
+    {
+      "type": "circle",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        222,
+        209
+      ],
+      "size_pixels": 74
+    },
+    {
+      "type": "triangle",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        75,
+        278
+      ],
+      "size_pixels": 84
+    }
+  ]
+}

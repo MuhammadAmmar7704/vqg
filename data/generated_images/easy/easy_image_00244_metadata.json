@@ -1,17 +1,37 @@
 {
   "difficulty": "easy",
   "image_index": 244,
-  "total_shapes": 1,
+  "total_shapes": 3,
   "shapes": [
     {
       "type": "circle",
-      "color": "light_purple",
+      "color": "pale_blue",
       "size_category": "medium",
       "position": [
-        346,
-        190
+        288,
+        174
       ],
-      "size_pixels": 62
+      "size_pixels": 94
+    },
+    {
+      "type": "triangle",
+      "color": "soft_blue",
+      "size_category": "medium",
+      "position": [
+        216,
+        317
+      ],
+      "size_pixels": 72
+    },
+    {
+      "type": "circle",
+      "color": "beige",
+      "size_category": "medium",
+      "position": [
+        102,
+        107
+      ],
+      "size_pixels": 92
     }
   ]
 }

@@ -8,30 +8,30 @@
       "color": "pale_blue",
       "size_category": "medium",
       "position": [
-        245,
-        165
+        310,
+        300
+      ],
+      "size_pixels": 84
+    },
+    {
+      "type": "rectangle",
+      "color": "beige",
+      "size_category": "medium",
+      "position": [
+        192,
+        259
       ],
       "size_pixels": 72
     },
     {
-      "type": "square",
-      "color": "lavender",
+      "type": "triangle",
+      "color": "light_pink",
       "size_category": "medium",
       "position": [
-        82,
-        134
+        309,
+        151
       ],
-      "size_pixels": 66
-    },
-    {
-      "type": "rectangle",
-      "color": "purple",
-      "size_category": "medium",
-      "position": [
-        153,
-        309
-      ],
-      "size_pixels": 60
+      "size_pixels": 96
     }
   ]
 }

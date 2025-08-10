@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 255,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "oval",
-      "color": "pale_mint",
+      "type": "heart",
+      "color": "pale_blue",
       "size_category": "large",
       "position": [
-        233,
-        248
+        261,
+        166
       ],
-      "size_pixels": 204
+      "size_pixels": 220
     },
     {
-      "type": "rectangle",
-      "color": "light_purple",
+      "type": "star",
+      "color": "purple",
+      "size_category": "medium",
+      "position": [
+        329,
+        520
+      ],
+      "size_pixels": 104
+    },
+    {
+      "type": "triangle",
+      "color": "pale_blue",
       "size_category": "small",
       "position": [
-        204,
-        86
+        71,
+        238
       ],
       "size_pixels": 52
     },
     {
-      "type": "pentagon",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        506,
-        291
-      ],
-      "size_pixels": 52
-    },
-    {
-      "type": "pentagon",
-      "color": "pink",
-      "size_category": "medium",
-      "position": [
-        105,
-        389
-      ],
-      "size_pixels": 132
-    },
-    {
-      "type": "pentagon",
-      "color": "orange",
-      "size_category": "medium",
-      "position": [
-        327,
-        502
-      ],
-      "size_pixels": 132
-    },
-    {
-      "type": "oval",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        492,
-        549
-      ],
-      "size_pixels": 44
-    },
-    {
       "type": "rectangle",
-      "color": "pale_mint",
+      "color": "light_mint",
+      "size_category": "medium",
+      "position": [
+        480,
+        310
+      ],
+      "size_pixels": 100
+    },
+    {
+      "type": "star",
+      "color": "light_blue",
       "size_category": "small",
       "position": [
-        63,
-        484
+        70,
+        416
       ],
-      "size_pixels": 34
+      "size_pixels": 36
     }
   ]
 }

@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 664,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "circle",
-      "color": "orange",
-      "size_category": "medium",
-      "position": [
-        103,
-        299
-      ],
-      "size_pixels": 134
-    },
-    {
-      "type": "oval",
+      "type": "hexagon",
       "color": "light_pink",
       "size_category": "small",
       "position": [
-        402,
-        453
+        281,
+        252
       ],
-      "size_pixels": 40
+      "size_pixels": 60
     },
     {
       "type": "triangle",
-      "color": "purple",
+      "color": "orange",
       "size_category": "small",
       "position": [
-        551,
-        280
+        342,
+        93
       ],
-      "size_pixels": 36
+      "size_pixels": 32
     },
     {
       "type": "triangle",
-      "color": "pale_mint",
-      "size_category": "small",
+      "color": "light_mint",
+      "size_category": "medium",
       "position": [
-        251,
-        538
+        144,
+        308
       ],
-      "size_pixels": 36
+      "size_pixels": 140
     },
     {
-      "type": "triangle",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        251,
-        194
-      ],
-      "size_pixels": 62
-    },
-    {
-      "type": "circle",
+      "type": "star",
       "color": "light_purple",
       "size_category": "medium",
       "position": [
-        504,
-        416
+        509,
+        128
       ],
-      "size_pixels": 110
+      "size_pixels": 98
     },
     {
-      "type": "diamond",
-      "color": "lavender",
+      "type": "circle",
+      "color": "light_green",
       "size_category": "medium",
       "position": [
-        317,
-        100
+        517,
+        308
       ],
-      "size_pixels": 100
+      "size_pixels": 94
+    },
+    {
+      "type": "hexagon",
+      "color": "teal",
+      "size_category": "medium",
+      "position": [
+        274,
+        391
+      ],
+      "size_pixels": 94
     }
   ]
 }

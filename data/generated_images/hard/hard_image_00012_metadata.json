@@ -1,55 +1,75 @@
 {
   "difficulty": "hard",
   "image_index": 12,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "pentagon",
-      "color": "light_pink",
-      "size_category": "small",
-      "position": [
-        554,
-        300
-      ],
-      "size_pixels": 52
-    },
-    {
       "type": "rectangle",
-      "color": "teal",
-      "size_category": "medium",
-      "position": [
-        367,
-        396
-      ],
-      "size_pixels": 104
-    },
-    {
-      "type": "rectangle",
-      "color": "mint",
-      "size_category": "medium",
-      "position": [
-        447,
-        513
-      ],
-      "size_pixels": 106
-    },
-    {
-      "type": "square",
-      "color": "light_pink",
+      "color": "soft_blue",
       "size_category": "large",
       "position": [
-        233,
-        161
+        436,
+        193
       ],
-      "size_pixels": 204
+      "size_pixels": 240
     },
     {
-      "type": "star",
-      "color": "yellow",
+      "type": "hexagon",
+      "color": "purple",
+      "size_category": "medium",
+      "position": [
+        222,
+        151
+      ],
+      "size_pixels": 130
+    },
+    {
+      "type": "rectangle",
+      "color": "pale_mint",
       "size_category": "small",
       "position": [
-        62,
-        304
+        522,
+        495
+      ],
+      "size_pixels": 62
+    },
+    {
+      "type": "pentagon",
+      "color": "beige",
+      "size_category": "small",
+      "position": [
+        224,
+        530
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "hexagon",
+      "color": "mint",
+      "size_category": "small",
+      "position": [
+        483,
+        360
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "rectangle",
+      "color": "purple",
+      "size_category": "small",
+      "position": [
+        137,
+        370
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "diamond",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        424,
+        425
       ],
       "size_pixels": 52
     }

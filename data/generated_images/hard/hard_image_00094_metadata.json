@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 94,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "heart",
-      "color": "beige",
-      "size_category": "large",
-      "position": [
-        166,
-        353
-      ],
-      "size_pixels": 204
-    },
-    {
-      "type": "hexagon",
-      "color": "pink",
-      "size_category": "medium",
-      "position": [
-        459,
-        427
-      ],
-      "size_pixels": 118
-    },
-    {
-      "type": "hexagon",
-      "color": "mint",
-      "size_category": "large",
-      "position": [
-        344,
-        166
-      ],
-      "size_pixels": 208
-    },
-    {
-      "type": "pentagon",
-      "color": "pale_blue",
-      "size_category": "medium",
-      "position": [
-        74,
-        167
-      ],
-      "size_pixels": 98
-    },
-    {
-      "type": "triangle",
-      "color": "pale_mint",
+      "type": "star",
+      "color": "soft_purple",
       "size_category": "small",
       "position": [
-        118,
-        66
+        285,
+        122
       ],
-      "size_pixels": 40
+      "size_pixels": 44
+    },
+    {
+      "type": "diamond",
+      "color": "light_purple",
+      "size_category": "medium",
+      "position": [
+        370,
+        433
+      ],
+      "size_pixels": 126
+    },
+    {
+      "type": "heart",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        141,
+        155
+      ],
+      "size_pixels": 38
     },
     {
       "type": "circle",
-      "color": "light_blue",
-      "size_category": "small",
+      "color": "light_green",
+      "size_category": "medium",
       "position": [
-        376,
-        537
+        224,
+        332
       ],
-      "size_pixels": 34
+      "size_pixels": 96
     },
     {
       "type": "star",
-      "color": "soft_blue",
+      "color": "beige",
       "size_category": "small",
       "position": [
-        169,
-        500
+        354,
+        85
       ],
       "size_pixels": 38
+    },
+    {
+      "type": "rectangle",
+      "color": "pale_blue",
+      "size_category": "small",
+      "position": [
+        553,
+        50
+      ],
+      "size_pixels": 48
     }
   ]
 }

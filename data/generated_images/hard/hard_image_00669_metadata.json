@@ -5,73 +5,73 @@
   "shapes": [
     {
       "type": "circle",
-      "color": "soft_purple",
-      "size_category": "medium",
-      "position": [
-        337,
-        469
-      ],
-      "size_pixels": 134
-    },
-    {
-      "type": "hexagon",
       "color": "mint",
       "size_category": "large",
       "position": [
-        448,
-        232
+        374,
+        244
       ],
-      "size_pixels": 226
-    },
-    {
-      "type": "triangle",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        89,
-        394
-      ],
-      "size_pixels": 122
+      "size_pixels": 222
     },
     {
       "type": "circle",
-      "color": "light_green",
-      "size_category": "medium",
-      "position": [
-        98,
-        126
-      ],
-      "size_pixels": 112
-    },
-    {
-      "type": "square",
-      "color": "soft_purple",
+      "color": "light_blue",
       "size_category": "small",
       "position": [
-        411,
-        77
+        146,
+        548
       ],
-      "size_pixels": 42
+      "size_pixels": 54
+    },
+    {
+      "type": "star",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        503,
+        130
+      ],
+      "size_pixels": 40
     },
     {
       "type": "diamond",
-      "color": "beige",
+      "color": "teal",
       "size_category": "small",
       "position": [
-        279,
-        174
+        121,
+        40
       ],
-      "size_pixels": 32
+      "size_pixels": 40
     },
     {
-      "type": "oval",
-      "color": "pink",
+      "type": "hexagon",
+      "color": "purple",
       "size_category": "small",
       "position": [
-        467,
-        514
+        310,
+        461
       ],
-      "size_pixels": 46
+      "size_pixels": 52
+    },
+    {
+      "type": "pentagon",
+      "color": "light_blue",
+      "size_category": "medium",
+      "position": [
+        87,
+        191
+      ],
+      "size_pixels": 118
+    },
+    {
+      "type": "square",
+      "color": "yellow",
+      "size_category": "medium",
+      "position": [
+        76,
+        390
+      ],
+      "size_pixels": 92
     }
   ]
 }

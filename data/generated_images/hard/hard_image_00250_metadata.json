@@ -1,57 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 250,
-  "total_shapes": 5,
+  "total_shapes": 7,
   "shapes": [
     {
-      "type": "circle",
-      "color": "purple",
-      "size_category": "large",
-      "position": [
-        204,
-        439
-      ],
-      "size_pixels": 196
-    },
-    {
-      "type": "triangle",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        389,
-        499
-      ],
-      "size_pixels": 32
-    },
-    {
-      "type": "square",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        422,
-        268
-      ],
-      "size_pixels": 130
-    },
-    {
-      "type": "square",
+      "type": "heart",
       "color": "lavender",
       "size_category": "small",
       "position": [
-        176,
-        270
+        73,
+        489
       ],
-      "size_pixels": 42
+      "size_pixels": 46
+    },
+    {
+      "type": "hexagon",
+      "color": "pale_blue",
+      "size_category": "large",
+      "position": [
+        270,
+        259
+      ],
+      "size_pixels": 224
+    },
+    {
+      "type": "circle",
+      "color": "lavender",
+      "size_category": "small",
+      "position": [
+        463,
+        395
+      ],
+      "size_pixels": 50
+    },
+    {
+      "type": "oval",
+      "color": "light_mint",
+      "size_category": "small",
+      "position": [
+        449,
+        504
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "square",
+      "color": "soft_blue",
+      "size_category": "medium",
+      "position": [
+        491,
+        179
+      ],
+      "size_pixels": 108
     },
     {
       "type": "rectangle",
-      "color": "light_mint",
-      "size_category": "medium",
+      "color": "pale_blue",
+      "size_category": "small",
       "position": [
-        311,
-        118
+        392,
+        440
       ],
-      "size_pixels": 104
+      "size_pixels": 48
+    },
+    {
+      "type": "circle",
+      "color": "soft_purple",
+      "size_category": "small",
+      "position": [
+        365,
+        78
+      ],
+      "size_pixels": 48
     }
   ]
 }

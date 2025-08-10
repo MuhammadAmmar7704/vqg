@@ -4,34 +4,34 @@
   "total_shapes": 3,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "pink",
+      "type": "square",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        68,
-        69
+        252,
+        304
       ],
-      "size_pixels": 92
+      "size_pixels": 72
+    },
+    {
+      "type": "circle",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        218,
+        123
+      ],
+      "size_pixels": 68
     },
     {
       "type": "square",
-      "color": "orange",
+      "color": "beige",
       "size_category": "medium",
       "position": [
-        83,
-        210
+        335,
+        213
       ],
-      "size_pixels": 82
-    },
-    {
-      "type": "triangle",
-      "color": "light_purple",
-      "size_category": "medium",
-      "position": [
-        69,
-        310
-      ],
-      "size_pixels": 70
+      "size_pixels": 84
     }
   ]
 }

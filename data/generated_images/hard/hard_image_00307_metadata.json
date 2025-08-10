@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 307,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "star",
-      "color": "light_green",
-      "size_category": "large",
+      "type": "heart",
+      "color": "orange",
+      "size_category": "small",
       "position": [
-        362,
-        141
+        329,
+        113
       ],
-      "size_pixels": 230
+      "size_pixels": 46
     },
     {
       "type": "star",
       "color": "light_mint",
       "size_category": "medium",
       "position": [
-        410,
-        435
+        239,
+        204
       ],
-      "size_pixels": 94
+      "size_pixels": 142
     },
     {
-      "type": "pentagon",
+      "type": "star",
+      "color": "soft_blue",
+      "size_category": "small",
+      "position": [
+        202,
+        435
+      ],
+      "size_pixels": 38
+    },
+    {
+      "type": "square",
+      "color": "purple",
+      "size_category": "large",
+      "position": [
+        446,
+        293
+      ],
+      "size_pixels": 226
+    },
+    {
+      "type": "circle",
       "color": "soft_blue",
       "size_category": "medium",
       "position": [
-        162,
-        204
-      ],
-      "size_pixels": 116
-    },
-    {
-      "type": "diamond",
-      "color": "light_blue",
-      "size_category": "medium",
-      "position": [
-        525,
-        344
-      ],
-      "size_pixels": 98
-    },
-    {
-      "type": "hexagon",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        66,
-        460
-      ],
-      "size_pixels": 92
-    },
-    {
-      "type": "heart",
-      "color": "teal",
-      "size_category": "medium",
-      "position": [
-        239,
-        495
+        134,
+        510
       ],
       "size_pixels": 110
     },
     {
-      "type": "diamond",
-      "color": "light_purple",
-      "size_category": "small",
+      "type": "heart",
+      "color": "light_mint",
+      "size_category": "medium",
       "position": [
-        283,
-        378
+        510,
+        83
       ],
-      "size_pixels": 58
+      "size_pixels": 90
     }
   ]
 }

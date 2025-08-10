@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 599,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "star",
-      "color": "lavender",
-      "size_category": "large",
+      "type": "oval",
+      "color": "light_mint",
+      "size_category": "medium",
       "position": [
-        329,
-        242
+        98,
+        111
       ],
-      "size_pixels": 204
-    },
-    {
-      "type": "circle",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        516,
-        214
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "star",
-      "color": "light_blue",
-      "size_category": "small",
-      "position": [
-        546,
-        41
-      ],
-      "size_pixels": 40
+      "size_pixels": 128
     },
     {
       "type": "diamond",
-      "color": "soft_blue",
-      "size_category": "small",
-      "position": [
-        42,
-        489
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "oval",
-      "color": "beige",
-      "size_category": "small",
-      "position": [
-        251,
-        462
-      ],
-      "size_pixels": 48
-    },
-    {
-      "type": "rectangle",
       "color": "purple",
       "size_category": "small",
       "position": [
-        122,
-        342
+        174,
+        407
       ],
-      "size_pixels": 38
+      "size_pixels": 58
+    },
+    {
+      "type": "diamond",
+      "color": "purple",
+      "size_category": "large",
+      "position": [
+        438,
+        214
+      ],
+      "size_pixels": 196
     },
     {
       "type": "oval",
-      "color": "light_purple",
+      "color": "light_mint",
+      "size_category": "medium",
+      "position": [
+        241,
+        247
+      ],
+      "size_pixels": 134
+    },
+    {
+      "type": "diamond",
+      "color": "pale_mint",
       "size_category": "small",
       "position": [
-        148,
-        184
+        280,
+        484
       ],
-      "size_pixels": 44
+      "size_pixels": 40
     }
   ]
 }

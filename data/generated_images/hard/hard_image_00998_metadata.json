@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 998,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "square",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        277,
-        436
-      ],
-      "size_pixels": 118
-    },
-    {
-      "type": "triangle",
-      "color": "purple",
-      "size_category": "medium",
-      "position": [
-        363,
-        301
-      ],
-      "size_pixels": 100
-    },
-    {
-      "type": "pentagon",
-      "color": "yellow",
-      "size_category": "small",
-      "position": [
-        548,
-        128
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "hexagon",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        446,
-        63
-      ],
-      "size_pixels": 46
-    },
-    {
-      "type": "pentagon",
-      "color": "yellow",
-      "size_category": "small",
-      "position": [
-        518,
-        288
-      ],
-      "size_pixels": 60
-    },
-    {
       "type": "oval",
-      "color": "mint",
-      "size_category": "small",
+      "color": "light_green",
+      "size_category": "large",
       "position": [
-        102,
-        447
+        168,
+        414
       ],
-      "size_pixels": 38
+      "size_pixels": 196
     },
     {
       "type": "circle",
-      "color": "beige",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        91,
+        165
+      ],
+      "size_pixels": 96
+    },
+    {
+      "type": "triangle",
+      "color": "light_mint",
+      "size_category": "medium",
+      "position": [
+        378,
+        361
+      ],
+      "size_pixels": 136
+    },
+    {
+      "type": "pentagon",
+      "color": "light_blue",
+      "size_category": "large",
+      "position": [
+        259,
+        120
+      ],
+      "size_pixels": 196
+    },
+    {
+      "type": "triangle",
+      "color": "light_green",
       "size_category": "small",
       "position": [
-        182,
-        314
+        457,
+        171
       ],
-      "size_pixels": 34
+      "size_pixels": 48
+    },
+    {
+      "type": "rectangle",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        126,
+        555
+      ],
+      "size_pixels": 50
     }
   ]
 }

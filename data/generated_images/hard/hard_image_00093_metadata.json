@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
+      "type": "rectangle",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        98,
+        182
+      ],
+      "size_pixels": 58
+    },
+    {
+      "type": "oval",
+      "color": "orange",
+      "size_category": "small",
+      "position": [
+        237,
+        412
+      ],
+      "size_pixels": 36
+    },
+    {
       "type": "circle",
       "color": "orange",
       "size_category": "small",
       "position": [
-        306,
-        410
+        413,
+        99
       ],
-      "size_pixels": 46
+      "size_pixels": 56
     },
     {
-      "type": "circle",
-      "color": "light_green",
-      "size_category": "large",
-      "position": [
-        185,
-        270
-      ],
-      "size_pixels": 266
-    },
-    {
-      "type": "pentagon",
-      "color": "pink",
-      "size_category": "large",
-      "position": [
-        456,
-        304
-      ],
-      "size_pixels": 222
-    },
-    {
-      "type": "pentagon",
-      "color": "light_pink",
+      "type": "triangle",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        313,
-        515
+        217,
+        70
       ],
-      "size_pixels": 34
+      "size_pixels": 60
     },
     {
-      "type": "oval",
-      "color": "beige",
-      "size_category": "medium",
+      "type": "heart",
+      "color": "mint",
+      "size_category": "large",
       "position": [
-        364,
-        80
+        440,
+        406
       ],
-      "size_pixels": 100
+      "size_pixels": 262
     },
     {
       "type": "pentagon",
-      "color": "yellow",
+      "color": "teal",
       "size_category": "medium",
       "position": [
-        454,
+        160,
         507
       ],
-      "size_pixels": 104
+      "size_pixels": 98
     },
     {
       "type": "oval",
-      "color": "yellow",
-      "size_category": "medium",
+      "color": "pale_blue",
+      "size_category": "small",
       "position": [
-        194,
-        66
+        204,
+        323
       ],
-      "size_pixels": 92
+      "size_pixels": 42
     }
   ]
 }

@@ -1,67 +1,77 @@
 {
   "difficulty": "hard",
   "image_index": 230,
-  "total_shapes": 6,
+  "total_shapes": 7,
   "shapes": [
     {
       "type": "oval",
-      "color": "pale_mint",
-      "size_category": "medium",
-      "position": [
-        135,
-        483
-      ],
-      "size_pixels": 106
-    },
-    {
-      "type": "heart",
-      "color": "pink",
-      "size_category": "large",
-      "position": [
-        189,
-        182
-      ],
-      "size_pixels": 222
-    },
-    {
-      "type": "rectangle",
-      "color": "mint",
-      "size_category": "large",
-      "position": [
-        437,
-        309
-      ],
-      "size_pixels": 240
-    },
-    {
-      "type": "square",
-      "color": "soft_purple",
-      "size_category": "small",
-      "position": [
-        376,
-        116
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "diamond",
       "color": "yellow",
       "size_category": "small",
       "position": [
-        66,
-        290
+        149,
+        400
       ],
-      "size_pixels": 58
+      "size_pixels": 46
+    },
+    {
+      "type": "pentagon",
+      "color": "soft_blue",
+      "size_category": "small",
+      "position": [
+        534,
+        208
+      ],
+      "size_pixels": 48
+    },
+    {
+      "type": "square",
+      "color": "pink",
+      "size_category": "small",
+      "position": [
+        193,
+        313
+      ],
+      "size_pixels": 44
+    },
+    {
+      "type": "hexagon",
+      "color": "teal",
+      "size_category": "small",
+      "position": [
+        412,
+        282
+      ],
+      "size_pixels": 36
+    },
+    {
+      "type": "circle",
+      "color": "mint",
+      "size_category": "medium",
+      "position": [
+        459,
+        482
+      ],
+      "size_pixels": 108
+    },
+    {
+      "type": "square",
+      "color": "light_green",
+      "size_category": "small",
+      "position": [
+        129,
+        259
+      ],
+      "size_pixels": 42
     },
     {
       "type": "diamond",
-      "color": "light_blue",
+      "color": "light_green",
       "size_category": "medium",
       "position": [
-        294,
-        480
+        356,
+        167
       ],
-      "size_pixels": 144
+      "size_pixels": 140
     }
   ]
 }

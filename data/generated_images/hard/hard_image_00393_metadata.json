@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "oval",
-      "color": "pale_mint",
-      "size_category": "large",
-      "position": [
-        292,
-        216
-      ],
-      "size_pixels": 244
-    },
-    {
-      "type": "oval",
-      "color": "mint",
-      "size_category": "small",
-      "position": [
-        370,
-        391
-      ],
-      "size_pixels": 48
-    },
-    {
-      "type": "star",
-      "color": "beige",
-      "size_category": "small",
-      "position": [
-        553,
-        544
-      ],
-      "size_pixels": 42
-    },
-    {
       "type": "circle",
-      "color": "teal",
+      "color": "orange",
       "size_category": "medium",
       "position": [
-        261,
-        501
+        455,
+        107
+      ],
+      "size_pixels": 148
+    },
+    {
+      "type": "oval",
+      "color": "soft_purple",
+      "size_category": "medium",
+      "position": [
+        189,
+        310
+      ],
+      "size_pixels": 118
+    },
+    {
+      "type": "rectangle",
+      "color": "orange",
+      "size_category": "medium",
+      "position": [
+        273,
+        206
       ],
       "size_pixels": 96
     },
     {
-      "type": "rectangle",
-      "color": "light_purple",
+      "type": "circle",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        512,
+        415
+      ],
+      "size_pixels": 112
+    },
+    {
+      "type": "star",
+      "color": "teal",
       "size_category": "small",
       "position": [
-        462,
-        379
+        539,
+        534
       ],
       "size_pixels": 46
     },
     {
-      "type": "hexagon",
-      "color": "yellow",
-      "size_category": "small",
+      "type": "oval",
+      "color": "lavender",
+      "size_category": "medium",
       "position": [
-        84,
-        298
+        162,
+        93
       ],
-      "size_pixels": 34
+      "size_pixels": 130
     },
     {
-      "type": "star",
-      "color": "soft_blue",
+      "type": "square",
+      "color": "purple",
       "size_category": "small",
       "position": [
-        459,
-        83
+        47,
+        525
       ],
-      "size_pixels": 50
+      "size_pixels": 40
     }
   ]
 }

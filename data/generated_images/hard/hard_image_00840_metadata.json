@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 840,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "yellow",
-      "size_category": "large",
-      "position": [
-        403,
-        380
-      ],
-      "size_pixels": 226
-    },
-    {
-      "type": "triangle",
-      "color": "purple",
-      "size_category": "small",
-      "position": [
-        226,
-        53
-      ],
-      "size_pixels": 36
-    },
-    {
-      "type": "diamond",
+      "type": "circle",
       "color": "beige",
       "size_category": "small",
       "position": [
-        200,
-        473
+        240,
+        358
       ],
-      "size_pixels": 40
+      "size_pixels": 46
     },
     {
-      "type": "diamond",
+      "type": "star",
+      "color": "beige",
+      "size_category": "medium",
+      "position": [
+        126,
+        343
+      ],
+      "size_pixels": 140
+    },
+    {
+      "type": "hexagon",
       "color": "pale_blue",
       "size_category": "small",
       "position": [
-        123,
-        291
+        389,
+        62
       ],
       "size_pixels": 60
     },
     {
-      "type": "star",
-      "color": "yellow",
+      "type": "diamond",
+      "color": "teal",
+      "size_category": "medium",
+      "position": [
+        263,
+        134
+      ],
+      "size_pixels": 142
+    },
+    {
+      "type": "triangle",
+      "color": "light_mint",
       "size_category": "small",
       "position": [
-        159,
-        66
+        550,
+        411
       ],
-      "size_pixels": 50
+      "size_pixels": 40
     },
     {
       "type": "pentagon",
-      "color": "orange",
-      "size_category": "small",
-      "position": [
-        117,
-        214
-      ],
-      "size_pixels": 50
-    },
-    {
-      "type": "rectangle",
-      "color": "pale_blue",
+      "color": "lavender",
       "size_category": "medium",
       "position": [
-        71,
-        467
+        499,
+        268
       ],
-      "size_pixels": 92
+      "size_pixels": 128
     }
   ]
 }

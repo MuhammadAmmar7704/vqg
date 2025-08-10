@@ -4,74 +4,74 @@
   "total_shapes": 7,
   "shapes": [
     {
-      "type": "triangle",
-      "color": "light_mint",
-      "size_category": "large",
-      "position": [
-        275,
-        203
-      ],
-      "size_pixels": 256
-    },
-    {
-      "type": "diamond",
-      "color": "light_blue",
+      "type": "hexagon",
+      "color": "light_pink",
       "size_category": "medium",
       "position": [
-        336,
-        460
+        250,
+        136
       ],
-      "size_pixels": 116
+      "size_pixels": 106
     },
     {
       "type": "diamond",
       "color": "pale_blue",
       "size_category": "small",
       "position": [
-        106,
-        153
+        101,
+        210
       ],
-      "size_pixels": 56
+      "size_pixels": 44
     },
     {
-      "type": "oval",
-      "color": "light_purple",
-      "size_category": "small",
-      "position": [
-        219,
-        435
-      ],
-      "size_pixels": 56
-    },
-    {
-      "type": "circle",
+      "type": "rectangle",
       "color": "orange",
       "size_category": "small",
       "position": [
-        208,
-        552
+        503,
+        219
       ],
-      "size_pixels": 36
+      "size_pixels": 56
     },
     {
-      "type": "square",
+      "type": "triangle",
       "color": "yellow",
-      "size_category": "small",
+      "size_category": "large",
       "position": [
-        83,
-        273
+        236,
+        417
       ],
-      "size_pixels": 50
+      "size_pixels": 266
     },
     {
-      "type": "heart",
-      "color": "light_pink",
+      "type": "diamond",
+      "color": "light_blue",
       "size_category": "medium",
       "position": [
-        453,
-        340
+        399,
+        105
+      ],
+      "size_pixels": 106
+    },
+    {
+      "type": "rectangle",
+      "color": "light_green",
+      "size_category": "medium",
+      "position": [
+        344,
+        234
       ],
       "size_pixels": 100
+    },
+    {
+      "type": "oval",
+      "color": "mint",
+      "size_category": "medium",
+      "position": [
+        481,
+        327
+      ],
+      "size_pixels": 102
     }
   ]
 }

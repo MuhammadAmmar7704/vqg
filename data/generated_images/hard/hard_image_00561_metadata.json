@@ -1,77 +1,67 @@
 {
   "difficulty": "hard",
   "image_index": 561,
-  "total_shapes": 7,
+  "total_shapes": 6,
   "shapes": [
     {
-      "type": "heart",
-      "color": "orange",
-      "size_category": "small",
-      "position": [
-        326,
-        363
-      ],
-      "size_pixels": 42
-    },
-    {
-      "type": "star",
-      "color": "purple",
-      "size_category": "small",
-      "position": [
-        392,
-        138
-      ],
-      "size_pixels": 38
-    },
-    {
-      "type": "square",
+      "type": "hexagon",
       "color": "pale_blue",
-      "size_category": "medium",
-      "position": [
-        499,
-        477
-      ],
-      "size_pixels": 142
-    },
-    {
-      "type": "pentagon",
-      "color": "yellow",
-      "size_category": "medium",
-      "position": [
-        444,
-        274
-      ],
-      "size_pixels": 104
-    },
-    {
-      "type": "diamond",
-      "color": "pale_mint",
-      "size_category": "small",
-      "position": [
-        158,
-        424
-      ],
-      "size_pixels": 36
-    },
-    {
-      "type": "oval",
-      "color": "light_green",
       "size_category": "large",
       "position": [
-        185,
-        255
+        219,
+        341
       ],
-      "size_pixels": 266
+      "size_pixels": 250
     },
     {
-      "type": "oval",
+      "type": "circle",
+      "color": "light_blue",
+      "size_category": "small",
+      "position": [
+        472,
+        298
+      ],
+      "size_pixels": 34
+    },
+    {
+      "type": "heart",
+      "color": "light_pink",
+      "size_category": "small",
+      "position": [
+        292,
+        164
+      ],
+      "size_pixels": 60
+    },
+    {
+      "type": "heart",
       "color": "lavender",
       "size_category": "small",
       "position": [
-        471,
-        94
+        101,
+        104
       ],
-      "size_pixels": 50
+      "size_pixels": 44
+    },
+    {
+      "type": "star",
+      "color": "light_mint",
+      "size_category": "medium",
+      "position": [
+        202,
+        108
+      ],
+      "size_pixels": 94
+    },
+    {
+      "type": "rectangle",
+      "color": "yellow",
+      "size_category": "small",
+      "position": [
+        509,
+        76
+      ],
+      "size_pixels": 44
     }
   ]
 }

@@ -1,77 +1,57 @@
 {
   "difficulty": "hard",
   "image_index": 799,
-  "total_shapes": 7,
+  "total_shapes": 5,
   "shapes": [
     {
-      "type": "oval",
-      "color": "soft_purple",
-      "size_category": "medium",
-      "position": [
-        108,
-        352
-      ],
-      "size_pixels": 140
-    },
-    {
-      "type": "triangle",
-      "color": "pink",
+      "type": "hexagon",
+      "color": "light_purple",
       "size_category": "large",
       "position": [
-        372,
-        238
+        351,
+        191
       ],
-      "size_pixels": 230
-    },
-    {
-      "type": "pentagon",
-      "color": "teal",
-      "size_category": "small",
-      "position": [
-        274,
-        377
-      ],
-      "size_pixels": 44
+      "size_pixels": 196
     },
     {
       "type": "diamond",
-      "color": "pink",
-      "size_category": "small",
+      "color": "light_green",
+      "size_category": "large",
       "position": [
-        44,
-        550
+        122,
+        410
       ],
-      "size_pixels": 46
-    },
-    {
-      "type": "hexagon",
-      "color": "pink",
-      "size_category": "small",
-      "position": [
-        504,
-        67
-      ],
-      "size_pixels": 44
+      "size_pixels": 202
     },
     {
       "type": "triangle",
-      "color": "pink",
-      "size_category": "medium",
+      "color": "light_purple",
+      "size_category": "small",
       "position": [
-        159,
-        493
+        153,
+        128
       ],
-      "size_pixels": 104
+      "size_pixels": 50
     },
     {
-      "type": "heart",
-      "color": "orange",
+      "type": "pentagon",
+      "color": "purple",
       "size_category": "medium",
       "position": [
-        119,
-        181
+        326,
+        436
       ],
-      "size_pixels": 104
+      "size_pixels": 128
+    },
+    {
+      "type": "diamond",
+      "color": "light_purple",
+      "size_category": "medium",
+      "position": [
+        516,
+        137
+      ],
+      "size_pixels": 110
     }
   ]
 }

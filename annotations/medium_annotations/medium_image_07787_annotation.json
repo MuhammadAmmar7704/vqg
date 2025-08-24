@@ -1,0 +1,36 @@
+{
+  "image_id": "medium_image_07787.png",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "id": "medium_image_07787_q1",
+      "type": "classification_shape",
+      "text": "What are the types of shapes present?"
+    },
+    {
+      "id": "medium_image_07787_q2",
+      "type": "counting_specific",
+      "text": "Number of shapes of a particular type?"
+    },
+    {
+      "id": "medium_image_07787_q3",
+      "type": "comparison_size_smallest",
+      "text": "What is the smallest shape present?"
+    },
+    {
+      "id": "medium_image_07787_q4",
+      "type": "comparison_size_largest",
+      "text": "What is the largest shape present?"
+    },
+    {
+      "id": "medium_image_07787_q5",
+      "type": "comparison_frequency",
+      "text": "Which shape appears the most in the image?"
+    },
+    {
+      "id": "medium_image_07787_q6",
+      "type": "duplicates_detection",
+      "text": "Are there any duplicates in the image?"
+    }
+  ]
+}

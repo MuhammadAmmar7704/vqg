@@ -1,0 +1,35 @@
+{
+  "image_id": "hard_image_18126.png",
+  "image_path": "/home/r64/Desktop/Desktop/CV/VQG-Dataset/VQG_SHAPES_DATA/data/generated_images/hard/hard_image_18126.png",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "id": "hard_image_18126_q1",
+      "type": "comparison_size_second",
+      "text": "What is the second largest shape?",
+      "answer": "",
+      "answer_type": "shape_type"
+    },
+    {
+      "id": "hard_image_18126_q2",
+      "type": "ordering_size",
+      "text": "What are the order-wise smallest shapes?",
+      "answer": "",
+      "answer_type": "ordered_list"
+    },
+    {
+      "id": "hard_image_18126_q3",
+      "type": "attribute_color",
+      "text": "What are the colors of the shapes present?",
+      "answer": "",
+      "answer_type": "list"
+    },
+    {
+      "id": "hard_image_18126_q4",
+      "type": "counting_colors",
+      "text": "Total number of colors in the image?",
+      "answer": "",
+      "answer_type": "number"
+    }
+  ]
+}

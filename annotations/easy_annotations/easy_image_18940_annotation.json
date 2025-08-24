@@ -1,0 +1,17 @@
+{
+  "image_id": "easy_image_18940.png",
+  "image_path": "/home/r64/Desktop/Desktop/CV/VQG-Dataset/VQG_SHAPES_DATA/data/generated_images/easy/easy_image_18940.png",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "easy_image_18940_q1",
+      "type": "counting_total",
+      "text": "What are the number of shapes present in the image?"
+    },
+    {
+      "id": "easy_image_18940_q2",
+      "type": "existence_list",
+      "text": "What shapes are present in the image?"
+    }
+  ]
+}
